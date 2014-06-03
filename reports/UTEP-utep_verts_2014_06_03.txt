@@ -1,0 +1,218 @@
+Report for Institution Code UTEP, Resource utep_verts
+Usage stats for May, 2014, generated on 2014/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 156
+Number of records retrieved in searches: 1946
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Mexico ; Times: 54
+	Country: Panama ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 74
+	Country: Unknown ; Times: 21
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-01 ; Times: 3
+	Date: 2014-05-02 ; Times: 3
+	Date: 2014-05-05 ; Times: 2
+	Date: 2014-05-06 ; Times: 15
+	Date: 2014-05-07 ; Times: 4
+	Date: 2014-05-08 ; Times: 1
+	Date: 2014-05-09 ; Times: 5
+	Date: 2014-05-10 ; Times: 1
+	Date: 2014-05-11 ; Times: 5
+	Date: 2014-05-12 ; Times: 5
+	Date: 2014-05-13 ; Times: 13
+	Date: 2014-05-15 ; Times: 11
+	Date: 2014-05-16 ; Times: 11
+	Date: 2014-05-17 ; Times: 5
+	Date: 2014-05-20 ; Times: 15
+	Date: 2014-05-21 ; Times: 8
+	Date: 2014-05-22 ; Times: 2
+	Date: 2014-05-23 ; Times: 3
+	Date: 2014-05-25 ; Times: 1
+	Date: 2014-05-27 ; Times: 9
+	Date: 2014-05-28 ; Times: 12
+	Date: 2014-05-29 ; Times: 7
+	Date: 2014-05-30 ; Times: 7
+	Date: 2014-05-31 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "birds in zacatecas" ; Times: 2
+	Query: "oso" ; Times: 1
+	Query: "whiptail" ; Times: 1
+	Query: "Lepus alleni records" ; Times: 2
+	Query: "Conopsis biserialis stateprovince:"Mexico"" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 4
+	Query: "Geochelone carbonaria" ; Times: 1
+	Query: "Charina" ; Times: 2
+	Query: "Michoacan Jiquilpan reptilia" ; Times: 1
+	Query: "species:panthera onca" ; Times: 2
+	Query: "Sorex neomexicanus" ; Times: 2
+	Query: "genus:panthera year >= 1970 year <= 2014" ; Times: 1
+	Query: "conejo" ; Times: 3
+	Query: "san francisco garter snake" ; Times: 2
+	Query: "white-tailed deer" ; Times: 1
+	Query: "hyperolius cinnamomeoventris institutioncode:UTEP" ; Times: 1
+	Query: "Storeria storerioides" ; Times: 2
+	Query: "CA lizard" ; Times: 1
+	Query: "Spilogale putorius Texas" ; Times: 1
+	Query: "thirteen-lined ground squirrel" ; Times: 1
+	Query: "Sylvilagus robustus" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 2
+	Query: "4128" ; Times: 1
+	Query: "Marmota marmot" ; Times: 2
+	Query: "Micruroides" ; Times: 1
+	Query: "Zacatecas" ; Times: 1
+	Query: "msb 4584" ; Times: 1
+	Query: "mammals in zacatecas" ; Times: 1
+	Query: "msb 6668" ; Times: 3
+	Query: "institutioncode:UTEP" ; Times: 1
+	Query: "mouse humerus" ; Times: 2
+	Query: "Michoacan Quiroga reptilia" ; Times: 1
+	Query: "villa insurgentes zacatecas" ; Times: 1
+	Query: "Michoacan Zitacuaro reptilia" ; Times: 1
+	Query: "utep "cyrtonyx"" ; Times: 1
+	Query: "Deirochelys reticularia" ; Times: 1
+	Query: "ambystoma ordinarium" ; Times: 3
+	Query: "mountain lion" ; Times: 2
+	Query: "Mammuthus columbi" ; Times: 2
+	Query: "Sceloporus goldmani" ; Times: 11
+	Query: ""Lampropeltis elapsoides" type:specimen (tissue)" ; Times: 1
+	Query: "genus:ateles year >= 1970 year <= 2014" ; Times: 3
+	Query: "casuarius year >= 1988" ; Times: 1
+	Query: "Amphibia Nevado de Toluca" ; Times: 1
+	Query: "eurycea lucifuga" ; Times: 1
+	Query: "eastern cottontail" ; Times: 5
+	Query: ""prothonotary warbler" type:specimen (skin)" ; Times: 1
+	Query: "Glen Rose" ; Times: 1
+	Query: "Craugastor pygmaeus" ; Times: 1
+	Query: "genus:Ateles year >= 1970 year <= 2014" ; Times: 2
+	Query: "unam" ; Times: 1
+	Query: "Michoacan Jungapeo reptilia" ; Times: 1
+	Query: "Barisia imbricata" ; Times: 1
+	Query: "Michoacan Tuxpan reptilia" ; Times: 1
+	Query: "Craugastor augusti" ; Times: 1
+	Query: "vicugna" ; Times: 6
+	Query: "Panthera" ; Times: 1
+	Query: "MIcrurus fulvius" ; Times: 1
+	Query: "leptopelis millsoni" ; Times: 3
+	Query: "leptopelis parbocagii" ; Times: 4
+	Query: "Eastern cottontail" ; Times: 3
+	Query: "prothonotary warbler" ; Times: 2
+	Query: "Arteaga reptilia" ; Times: 1
+	Query: "Oryctolagus" ; Times: 1
+	Query: "tree swallow" ; Times: 1
+	Query: "Thamnophis cyrtopsis stateprovince:"Mexico"" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 2
+	Query: "utep "accipiter gentilis"" ; Times: 1
+	Query: "panthera onca mexico" ; Times: 1
+	Query: "anole" ; Times: 2
+	Query: "utep "rufopalliatus"" ; Times: 1
+	Query: "plestiodon obsoletus" ; Times: 3
+	Query: "Michoacan Chilchota reptilia" ; Times: 1
+	Query: "Lasiurus xanthinus" ; Times: 1
+	Query: "country:"ecuador" genus:sylvilagus year >= 1970 year <= 2014" ; Times: 1
+	Query: "Basiliscus vittatus 2011" ; Times: 1
+	Query: "Basiliscus vittatus 2010" ; Times: 1
+	Query: "San Antonio well" ; Times: 1
+	Query: "Basiliscus vittatus 2012" ; Times: 2
+	Query: "Lepus alleni" ; Times: 1
+	Query: "Hyla gratiosa" ; Times: 5
+	Query: "Nevado de Toluca" ; Times: 2
+	Query: "Pinyon Jay" ; Times: 3
+	Query: "(FossilSpecimen AND NOT UAM AND NOT UCMP)" ; Times: 1
+	Query: "sceloporus torquatus" ; Times: 1
+	Query: "mud snake" ; Times: 1
+	Query: "Lithobates catesbeianus mappable:1" ; Times: 1
+	Query: "Plestiodon copei" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 1679 download events in this period)
+Total number of records downloaded: 4608 (out of 895475 records downloaded for all resources in this period)
+Total number of unique records downloaded: 4290
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 18
+	Country: United States ; Times: 21
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-01 ; Times: 9
+	Date: 2014-05-02 ; Times: 2
+	Date: 2014-05-05 ; Times: 3
+	Date: 2014-05-06 ; Times: 6
+	Date: 2014-05-16 ; Times: 3
+	Date: 2014-05-17 ; Times: 1
+	Date: 2014-05-18 ; Times: 1
+	Date: 2014-05-20 ; Times: 1
+	Date: 2014-05-21 ; Times: 1
+	Date: 2014-05-23 ; Times: 1
+	Date: 2014-05-27 ; Times: 2
+	Date: 2014-05-28 ; Times: 1
+	Date: 2014-05-29 ; Times: 5
+	Date: 2014-05-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "zalophus" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus year >= 1980 year <= 2014" ; Times: 1
+	Query: "Tamias type:specimen AND (NOT striatus NOT sibiricus) year >= 1800 year <= 2005" ; Times: 1
+	Query: "type:specimen county:"Clark" stateprovince:"Nevada" class:mammalia" ; Times: 1
+	Query: "Michoacan reptilia" ; Times: 1
+	Query: ""Arizona elegans"" ; Times: 1
+	Query: ""Aquila chrysaetos"" ; Times: 1
+	Query: "Zacatecas Chiroptera" ; Times: 2
+	Query: ""Crotalus cerastes"" ; Times: 1
+	Query: "Zacatecas" ; Times: 1
+	Query: ""Athene cunicularia"" ; Times: 1
+	Query: "puma concolor type:specimen" ; Times: 1
+	Query: "Artiodactyla" ; Times: 1
+	Query: "Mulcahy" ; Times: 2
+	Query: "Conopsis biserialis stateprovince:"Mexico"" ; Times: 1
+	Query: "Craugastor pygmaeus" ; Times: 1
+	Query: "Primates" ; Times: 1
+	Query: ""Toxostoma crissale"" ; Times: 1
+	Query: ""Sauromalus obesus"" ; Times: 1
+	Query: "ursus" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "Craugastor augusti" ; Times: 1
+	Query: "Thamnophis cyrtopsis stateprovince:"Mexico"" ; Times: 1
+	Query: "palenque" ; Times: 1
+	Query: ""Campylorhynchus brunneicapillus"" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Nevado de Toluca" ; Times: 2
+	Query: "Sceloporus grammicus stateprovince:"Mexico"" ; Times: 1
+	Query: "sceloporus torquatus" ; Times: 1
+	Query: ""Masticophis flagellum"" ; Times: 2
+	Query: "genus:Thorius" ; Times: 1
+	Query: "tadarida" ; Times: 1
+	Query: "Plestiodon copei" ; Times: 1
+	Query: "Proboscidea" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 405
+Total number of records retrieved from searches: 6624
+Number of download events that retrieved data from the resource: 277
+Total number of records downloaded: 34957
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 405
+Total number of records retrieved from searches: 6624
+Number of download events that retrieved data from the resource: 454
+Total number of records downloaded: 334542
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
