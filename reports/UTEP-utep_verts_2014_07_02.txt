@@ -1,0 +1,239 @@
+Report for Institution Code UTEP, Resource utep_verts
+Usage stats for June, 2014, generated on 2014/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 246
+Number of records retrieved in searches: 3188
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 21
+	Country: Canada ; Times: 6
+	Country: Mexico ; Times: 18
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 199
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-06-01 ; Times: 3
+	Date: 2014-06-02 ; Times: 15
+	Date: 2014-06-03 ; Times: 17
+	Date: 2014-06-04 ; Times: 4
+	Date: 2014-06-05 ; Times: 5
+	Date: 2014-06-06 ; Times: 4
+	Date: 2014-06-07 ; Times: 4
+	Date: 2014-06-08 ; Times: 8
+	Date: 2014-06-09 ; Times: 19
+	Date: 2014-06-11 ; Times: 61
+	Date: 2014-06-12 ; Times: 8
+	Date: 2014-06-13 ; Times: 5
+	Date: 2014-06-14 ; Times: 7
+	Date: 2014-06-15 ; Times: 1
+	Date: 2014-06-16 ; Times: 14
+	Date: 2014-06-17 ; Times: 2
+	Date: 2014-06-18 ; Times: 8
+	Date: 2014-06-19 ; Times: 10
+	Date: 2014-06-20 ; Times: 2
+	Date: 2014-06-21 ; Times: 3
+	Date: 2014-06-23 ; Times: 8
+	Date: 2014-06-24 ; Times: 11
+	Date: 2014-06-25 ; Times: 2
+	Date: 2014-06-26 ; Times: 1
+	Date: 2014-06-27 ; Times: 6
+	Date: 2014-06-28 ; Times: 4
+	Date: 2014-06-29 ; Times: 3
+	Date: 2014-06-30 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen country:"guam"" ; Times: 1
+	Query: "Otospermophilus beecheyi type:specimen county:"San Diego"" ; Times: 1
+	Query: "stateprovince:"Veracruz" country:"Mexico" specificepithet:schistosa genus:Tantilla" ; Times: 1
+	Query: "Ambystoma rosaceum" ; Times: 2
+	Query: "heloderma horridum" ; Times: 1
+	Query: "nutria" ; Times: 1
+	Query: "stateprovince:"Chiapas" country:"Mexico" genus:Rhadinaea year >= 1974 year <= 2014" ; Times: 1
+	Query: "Ambystoma mabeei" ; Times: 1
+	Query: "genus:Stenorrhina" ; Times: 1
+	Query: "urosaurus ornatus distance(location,geopoint(32.47269502206151,-106.85302734375))<28721" ; Times: 1
+	Query: "specificepithet:decorata genus:Rhadinaea" ; Times: 1
+	Query: "specificepithet:constrictor genus:Boa" ; Times: 1
+	Query: "stateprovince:"Guanajuato" country:"Mexico"" ; Times: 1
+	Query: "kinosternon scorpioides" ; Times: 16
+	Query: "Incilius valliceps" ; Times: 1
+	Query: "lecontei tissue:1" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 1
+	Query: "coleonyx elegans" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 3
+	Query: "eurycea lucifuga type:specimen year >= 1960" ; Times: 1
+	Query: "stateprovince:"Oaxaca" country:"Mexico" genus:Tantilla" ; Times: 1
+	Query: "country:"Mexico" specificepithet:poecilonotus genus:Pseustes" ; Times: 1
+	Query: "specificepithet:cenchria genus:Epicrates" ; Times: 2
+	Query: "Ophisaurus attenuatus" ; Times: 2
+	Query: "Phrynosoma platyrhinos Arizona" ; Times: 2
+	Query: "green frog" ; Times: 1
+	Query: "genus:Urotheca" ; Times: 2
+	Query: "country:"Mexico" genus:Pseustes" ; Times: 1
+	Query: "genus:Boa" ; Times: 1
+	Query: "Conepatus leuconotus country:"United States" year <= 2014" ; Times: 1
+	Query: "neotoma goldmani" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "bullfrog" ; Times: 2
+	Query: "puma concolor stateprovince:"Texas"" ; Times: 1
+	Query: "urosaurus ornatus distance(location,geopoint(32.47269502206151,-106.94091796875))<33968" ; Times: 1
+	Query: "crotalus viridis oklahoma" ; Times: 1
+	Query: "genus:Diasporus" ; Times: 1
+	Query: "bigfoot" ; Times: 1
+	Query: "putorius stateprovince:"texas"" ; Times: 9
+	Query: "gila monster" ; Times: 2
+	Query: "thamnophis cyrtopsis texas" ; Times: 1
+	Query: "mustela stateprovince:"texas"" ; Times: 1
+	Query: "sheep frog" ; Times: 1
+	Query: "specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "ambystoma mabeei" ; Times: 4
+	Query: "aspidoscelis tigris tissue:1" ; Times: 1
+	Query: "specificepithet:degenhardtii genus:Stenorrhina" ; Times: 5
+	Query: "gopherus berlandieri texas" ; Times: 1
+	Query: "Hyperolius leucotaenius" ; Times: 24
+	Query: "specificepithet:rhombifer genus:Drymobius" ; Times: 6
+	Query: "stateprovince:"texas" specificepithet:aquaticus genus:sylvilagus" ; Times: 2
+	Query: "urosaurus ornatus distance(location,geopoint(31.541089879585808,-106.710205078125))<100000" ; Times: 1
+	Query: "Incilius occidentalis" ; Times: 2
+	Query: "eurycea lucifuga type:specimen" ; Times: 1
+	Query: "canyon lizard" ; Times: 2
+	Query: "country:"Mexico" specificepithet:melanolomus genus:Mastigodryas" ; Times: 1
+	Query: "Leptopelis karissimbensis" ; Times: 33
+	Query: "loxocemus bicolor" ; Times: 1
+	Query: "specificepithet:gaigeae genus:Rhadinaea" ; Times: 1
+	Query: "sylvilagus aquaticus stateprovince:"Texas"" ; Times: 1
+	Query: "country:"Suriname" specificepithet:rhombifer genus:Drymobius" ; Times: 2
+	Query: "lizard year >= 1970 year <= 2014 mappable:1" ; Times: 1
+	Query: "thamnophis hammondii los angeles" ; Times: 1
+	Query: "specificepithet:melanolomus genus:Mastigodryas" ; Times: 2
+	Query: "robertson county texas" ; Times: 2
+	Query: "stateprovince:"texas" specificepithet:canadensis genus:castor" ; Times: 1
+	Query: "eurycea lucifuga" ; Times: 2
+	Query: "horned lizard" ; Times: 1
+	Query: "type:specimen specificepithet:pipiens genus:lithobates mappable:1" ; Times: 1
+	Query: "cassowary" ; Times: 1
+	Query: "lizard AND (united states) year >= 1970 year <= 2014 mappable:1" ; Times: 1
+	Query: "hyena type:specimen" ; Times: 1
+	Query: "Texas map turtle" ; Times: 1
+	Query: "genus:Rhadinaea year >= 1974 year <= 2014" ; Times: 9
+	Query: "boa constrictor" ; Times: 2
+	Query: "Brigham Young" ; Times: 1
+	Query: "Craugastor augusti" ; Times: 5
+	Query: "specificepithet:nebulata genus:Sibon" ; Times: 1
+	Query: "coati" ; Times: 3
+	Query: "lizard" ; Times: 1
+	Query: "country:"Mexico" specificepithet:schistosa genus:Tantilla" ; Times: 2
+	Query: "texas rat snake" ; Times: 1
+	Query: "type:specimen county:"robertson" stateprovince:"texas"" ; Times: 1
+	Query: "specificepithet:decorata genus:Rhadinaea year >= 1973 year <= 2014" ; Times: 1
+	Query: "Bungarus" ; Times: 1
+	Query: "mole" ; Times: 1
+	Query: "eurycea lucifuga type:specimen mappable:1" ; Times: 3
+	Query: "lizard AND (not united states) year >= 1950 year <= 2014 mappable:1" ; Times: 1
+	Query: "Necturus maculosus" ; Times: 2
+	Query: "genus:Pseustes" ; Times: 4
+	Query: "genus:Urotheca year >= 1974 year <= 2014" ; Times: 3
+	Query: "specificepithet:schistosa genus:Tantilla" ; Times: 2
+	Query: "country:"Mexico" specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "conepatus stateprovince:"texas"" ; Times: 1
+	Query: "painted turtle" ; Times: 1
+	Query: "Eretmochelys imbricata AND mexico" ; Times: 1
+	Query: "Swamp Rabbit" ; Times: 1
+	Query: "spilogale stateprovince:"texas"" ; Times: 1
+	Query: "necturus maculosus" ; Times: 3
+	Query: "specificepithet:laureata genus:Rhadinaea" ; Times: 2
+	Query: "country:"Honduras" specificepithet:melanolomus genus:Mastigodryas" ; Times: 1
+	Query: "Heterodon simus" ; Times: 1
+	Query: "Gomphotheriidae (fossil)" ; Times: 5
+	Query: "specificepithet:cherriei genus:Sphenomorphus" ; Times: 1
+	Query: "lizard year >= 2000 year <= 2014 mappable:1" ; Times: 1
+	Query: "Mountain Lion" ; Times: 2
+	Query: "hyla gratiosa" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 278 download events in this period)
+Total number of records downloaded: 7351 (out of 1064147 records downloaded for all resources in this period)
+Total number of unique records downloaded: 6233
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: United States ; Times: 19
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-06-01 ; Times: 1
+	Date: 2014-06-02 ; Times: 2
+	Date: 2014-06-03 ; Times: 5
+	Date: 2014-06-05 ; Times: 4
+	Date: 2014-06-06 ; Times: 1
+	Date: 2014-06-10 ; Times: 3
+	Date: 2014-06-11 ; Times: 1
+	Date: 2014-06-13 ; Times: 1
+	Date: 2014-06-16 ; Times: 3
+	Date: 2014-06-18 ; Times: 2
+	Date: 2014-06-19 ; Times: 1
+	Date: 2014-06-20 ; Times: 2
+	Date: 2014-06-23 ; Times: 2
+	Date: 2014-06-25 ; Times: 2
+	Date: 2014-06-28 ; Times: 1
+	Date: 2014-06-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "county:"kendall" stateprovince:"texas"" ; Times: 1
+	Query: "thamnophis hammondii los angeles" ; Times: 1
+	Query: "puma concolor stateprovince:"Texas"" ; Times: 1
+	Query: "Conepatus leuconotus country:"United States" year <= 2014" ; Times: 1
+	Query: "aspidoscelis angusticeps" ; Times: 1
+	Query: "Mephitis mephitis country:"Mexico" year <= 2014" ; Times: 1
+	Query: "Bungarus" ; Times: 1
+	Query: "stateprovince:"Texas" year >= 1980 year <= 2014 mappable:1" ; Times: 1
+	Query: "stateprovince:"Arizona" class:Reptilia year >= 1801 year <= 2014" ; Times: 1
+	Query: "type:specimen specificepithet:melodia genus:Melospiza" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "test" ; Times: 1
+	Query: "Incilius valliceps" ; Times: 1
+	Query: "Mephitis mephitis country:"United States" year <= 2014" ; Times: 1
+	Query: "stateprovince:"Guanajuato" country:"Mexico" class:Mammalia" ; Times: 1
+	Query: "stateprovince:"Wyoming" genus:Thomomys" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "type:specimen specificepithet:cinerea genus:Neotoma year >= 1800 year <= 2014" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "Incilius occidentalis" ; Times: 1
+	Query: "Craugastor augusti" ; Times: 1
+	Query: "Onychomys arenicola" ; Times: 1
+	Query: "Phrynosoma platyrhinos Arizona" ; Times: 2
+	Query: "thamnophis sirtalis" ; Times: 1
+	Query: "Peromyscus maniculatus year >= 1970 year <= 1985" ; Times: 1
+	Query: "Icterus cucullatus" ; Times: 1
+	Query: "Mammals stateprovince:"Veracruz" AND (Veracruz)" ; Times: 1
+	Query: "Sceloporus malachiticus" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "sylvilagus aquaticus stateprovince:"Texas"" ; Times: 1
+	Query: "Spilogale gracilis country:"United States" year <= 2014" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 651
+Total number of records retrieved from searches: 9812
+Number of download events that retrieved data from the resource: 309
+Total number of records downloaded: 42308
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 651
+Total number of records retrieved from searches: 9812
+Number of download events that retrieved data from the resource: 486
+Total number of records downloaded: 341893
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
