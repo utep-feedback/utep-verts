@@ -1,0 +1,191 @@
+Report for Institution Code UTEP, Resource utep_verts
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 126
+Number of records retrieved in searches: 832
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 36
+	Country: Unknown ; Times: 15
+	Country: United States ; Times: 60
+	Country: Russia ; Times: 9
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-04 ; Times: 12
+	Date: 2016-03-02 ; Times: 9
+	Date: 2016-03-03 ; Times: 20
+	Date: 2016-03-01 ; Times: 7
+	Date: 2016-03-08 ; Times: 13
+	Date: 2016-03-09 ; Times: 17
+	Date: 2016-03-06 ; Times: 11
+	Date: 2016-03-07 ; Times: 4
+	Date: 2016-03-14 ; Times: 8
+	Date: 2016-03-05 ; Times: 2
+	Date: 2016-03-11 ; Times: 5
+	Date: 2016-03-10 ; Times: 12
+	Date: 2016-03-13 ; Times: 4
+	Date: 2016-03-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Celestus rozellae" ; Times: 2
+	Query: "Sistrurus catenatus" ; Times: 3
+	Query: "lithobates catesbeiana" ; Times: 1
+	Query: "Heloderma horridum horridum" ; Times: 1
+	Query: "genus:Incilius specificepithet:alvarius" ; Times: 1
+	Query: "Common Merganser texas" ; Times: 1
+	Query: "ambystoma maculatum stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Sceloporus goldmani" ; Times: 1
+	Query: "genus:Pseudacris specificepithet:clarkii" ; Times: 1
+	Query: "&#34;Anaxyrus microscaphus&#34; Arizona" ; Times: 1
+	Query: "Ambystoma jeffersonianum maryland" ; Times: 1
+	Query: "specificepithet:consobrinus genus:Sceloporus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Ambystoma jeffersonianum Maryland mappable:1" ; Times: 1
+	Query: "tissue:1 Cophosaurus" ; Times: 1
+	Query: "genus:Smilisca class:Amphibia country:&#34;Mexico&#34; year &gt;= 1977 year &lt;= 1978" ; Times: 1
+	Query: "Ficimia publia" ; Times: 1
+	Query: "monster" ; Times: 4
+	Query: "monterrey" ; Times: 1
+	Query: "gyalopion" ; Times: 1
+	Query: "gila monster" ; Times: 1
+	Query: "post stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "wislizenii washoe county" ; Times: 1
+	Query: "Western fence lizard" ; Times: 1
+	Query: "elf" ; Times: 4
+	Query: "vampire" ; Times: 1
+	Query: "Incilius occidentalis" ; Times: 1
+	Query: "sibon nebulata" ; Times: 1
+	Query: "post county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 2
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "VIPERA" ; Times: 2
+	Query: "ambystoma tigrinum stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "cienega de flores distance(location,geopoint(25.942239101010102,-100.05952298641205))&lt;100000" ; Times: 1
+	Query: "Phrynosoma platyrhinos washoe county" ; Times: 1
+	Query: "Plectrohyla Chiapas" ; Times: 2
+	Query: "Sceloporus scalaris" ; Times: 1
+	Query: "Lichanura" ; Times: 1
+	Query: "order:Anura class:Amphibia county:&#34;Real&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "crotalus triseriatus" ; Times: 5
+	Query: "Gymnogyps californianus (bill)" ; Times: 1
+	Query: "Crotalus pricei" ; Times: 1
+	Query: "Ptychohyla" ; Times: 1
+	Query: "Gray treefrog" ; Times: 2
+	Query: "Cryptobranchus" ; Times: 2
+	Query: "coleonyx elegans" ; Times: 2
+	Query: "monterrey distance(location,geopoint(25.942239101010102,-100.05952298641205))&lt;100000" ; Times: 1
+	Query: "pseudemys concinna" ; Times: 2
+	Query: "class:Reptilia county:&#34;Real&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "lichanura" ; Times: 1
+	Query: "genus:Thamnophis class:Reptilia county:&#34;Real&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Charina trivirgata" ; Times: 1
+	Query: "crotalus polystictus" ; Times: 1
+	Query: "genus:Lampropeltis catalognumber:9593" ; Times: 1
+	Query: "Anotheca spinosa" ; Times: 1
+	Query: "thamnophis marcianus tissue:1" ; Times: 1
+	Query: "Sistrurus miliarius" ; Times: 5
+	Query: "Lithobates maculatus" ; Times: 1
+	Query: "Agalychnis dacnicolor" ; Times: 4
+	Query: "Ficimia publia stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "genus:Necturus specificepithet:maculosus" ; Times: 1
+	Query: "specificepithet:laterale stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "genus:Celestus island:Hispaniola" ; Times: 1
+	Query: "genus:Crotalus distance(location,geopoint(19.394067895396628,-99.07470703125))&lt;147296" ; Times: 1
+	Query: "Ptychohyla euthysanota" ; Times: 3
+	Query: "genus:lampropeltis stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "lithobates areolatus" ; Times: 2
+	Query: "genus:malaclemys stateprovince:&#34;texas&#34;" ; Times: 13
+	Query: "testudinidae stateprovince:&#34;Texas&#34;" ; Times: 4
+	Query: "sibon sartori" ; Times: 1
+	Query: "Heloderma horridum 1" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "Aechmophorus clarkii" ; Times: 1
+	Query: "crotalus tigris" ; Times: 1
+	Query: "specificepithet:Triangulum genus:Lampropeltis stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:augusti class:Amphibia county:&#34;Real&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "crotalus clark county nevada" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 91 (out of 230 download events in this period)
+Total number of records downloaded: 75943
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 10
+	Country: United States ; Times: 63
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-04 ; Times: 3
+	Date: 2016-03-02 ; Times: 5
+	Date: 2016-03-12 ; Times: 4
+	Date: 2016-03-10 ; Times: 13
+	Date: 2016-03-08 ; Times: 5
+	Date: 2016-03-09 ; Times: 17
+	Date: 2016-03-06 ; Times: 5
+	Date: 2016-03-07 ; Times: 4
+	Date: 2016-03-14 ; Times: 10
+	Date: 2016-03-05 ; Times: 2
+	Date: 2016-03-11 ; Times: 5
+	Date: 2016-03-03 ; Times: 6
+	Date: 2016-03-13 ; Times: 10
+	Date: 2016-03-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Celestus rozellae" ; Times: 1
+	Query: "Cnemidophorus exsanguis" ; Times: 1
+	Query: "Sigmodontinae" ; Times: 1
+	Query: "stateprovince:&#34;durango&#34; (amphibia)" ; Times: 1
+	Query: "Setophaga nigrescens" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "tissue" ; Times: 39
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Ambystoma jeffersonianum maryland" ; Times: 1
+	Query: "Psittacidae Psittacula" ; Times: 1
+	Query: "Ambystoma jeffersonianum mappable:1" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Lithobates maculatus" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "killdeer" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "cynomys mexicanus" ; Times: 1
+	Query: "&#34;Anaxyrus microscaphus&#34; Arizona" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 13
+	Query: "Hesperotestudo" ; Times: 1
+	Query: "Ptychohyla" ; Times: 1
+	Query: "tyrannus forficatus" ; Times: 1
+	Query: "Bolitoglossa mexicana mappable:1" ; Times: 1
+	Query: "specificepithet:granulosa genus:Taricha stateprovince:&#34;washington&#34; year &gt;= 1950" ; Times: 1
+	Query: "protonotaria citrea" ; Times: 1
+	Query: "plestiodon skiltonianus" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "Amphiuma means mappable:1" ; Times: 1
+	Query: "blue- winged teal" ; Times: 1
+	Query: "passer domesticus type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "Cnemidophorus sexlineatus" ; Times: 1
+	Query: "class:Aves county:&#34;Onondaga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "ochotona" ; Times: 2
+	Query: "Ambystoma ordinarium mappable:1" ; Times: 1
+	Query: "Plestiodon gilberti" ; Times: 1
+	Query: "Kinosternon integrum" ; Times: 1
+
+
+End of report.
