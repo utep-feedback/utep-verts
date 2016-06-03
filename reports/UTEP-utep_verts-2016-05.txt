@@ -1,0 +1,325 @@
+Report for Institution Code UTEP, Resource utep_verts
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 234
+Number of records retrieved in searches: 3296
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 128
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 41
+	Country: Unknown ; Times: 8
+	Country: Philippines ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Malaysia ; Times: 1
+	Country: Sweden ; Times: 38
+	Country: Belgium ; Times: 4
+	Country: Russia ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 5
+	Date: 2016-05-18 ; Times: 6
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-15 ; Times: 6
+	Date: 2016-05-14 ; Times: 1
+	Date: 2016-05-13 ; Times: 5
+	Date: 2016-05-12 ; Times: 9
+	Date: 2016-05-11 ; Times: 4
+	Date: 2016-05-10 ; Times: 6
+	Date: 2016-05-31 ; Times: 13
+	Date: 2016-05-30 ; Times: 10
+	Date: 2016-05-08 ; Times: 11
+	Date: 2016-05-09 ; Times: 8
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-02 ; Times: 5
+	Date: 2016-05-03 ; Times: 6
+	Date: 2016-05-04 ; Times: 16
+	Date: 2016-05-05 ; Times: 5
+	Date: 2016-05-06 ; Times: 2
+	Date: 2016-05-07 ; Times: 2
+	Date: 2016-05-26 ; Times: 4
+	Date: 2016-05-27 ; Times: 13
+	Date: 2016-05-24 ; Times: 9
+	Date: 2016-05-25 ; Times: 9
+	Date: 2016-05-22 ; Times: 17
+	Date: 2016-05-23 ; Times: 10
+	Date: 2016-05-20 ; Times: 9
+	Date: 2016-05-21 ; Times: 21
+	Date: 2016-05-28 ; Times: 7
+	Date: 2016-05-29 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Viperidae county:&#34;Santa Fe&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "crotalus oreganus" ; Times: 1
+	Query: "dicamptodon tenebrosus distance(location,geopoint(45.65500838821109,-122.1240234375))&lt;100000" ; Times: 1
+	Query: "family:Viperidae county:&#34;Payne&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "heloderma" ; Times: 2
+	Query: "lampropeltis pyromelana" ; Times: 2
+	Query: "family:Viperidae county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "family:Viperidae county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "family:Elapidae county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "checkered garter" ; Times: 1
+	Query: "Agkistrodon piscivorous" ; Times: 2
+	Query: "Eleutherodactylus nitidus" ; Times: 1
+	Query: "bogertophis subocularis" ; Times: 1
+	Query: "Viperidae family:Viperidae county:&#34;Bernalillo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "pantherophis slowinskii" ; Times: 1
+	Query: "Douglasi horned lizard" ; Times: 1
+	Query: "hyla plicata" ; Times: 1
+	Query: "Kinosternon hirtipes" ; Times: 1
+	Query: "institutioncode:utep" ; Times: 2
+	Query: "family:Viperidae county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "family:Viperidae county:&#34;Cotton&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:coriacea genus:Dermochelys" ; Times: 5
+	Query: "distance(location,geopoint(31.659036,-110.027516))&lt;15000" ; Times: 1
+	Query: "genus:Smilisca specificepithet:cyanosticta" ; Times: 2
+	Query: "leopard frog" ; Times: 2
+	Query: "Crotalus pricei" ; Times: 1
+	Query: "Mexican hognose snake" ; Times: 1
+	Query: "coluber stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "family:Viperidae county:&#34;Chaves&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Micrurus laticollaris" ; Times: 2
+	Query: "genus:notophthalmus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "lichanura trivirgata" ; Times: 1
+	Query: "Leptotyphlops humilis" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "Thamnophis brachystoma New York" ; Times: 2
+	Query: "TERRAPENE NELSONI" ; Times: 1
+	Query: "Agkistrodon oklahoma" ; Times: 1
+	Query: "siren intermedia stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Terrapene ornata stateprovince:&#34;New Mexico&#34; mappable:1" ; Times: 1
+	Query: "sistrurus Cochise county" ; Times: 1
+	Query: "Pantherophis guttata" ; Times: 1
+	Query: "kinosternon sonoriense" ; Times: 2
+	Query: "snakes" ; Times: 1
+	Query: "Hognose stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "stateprovince:&#34;Arizona&#34; genus:nasua year &gt;= 1900 year &lt;= 2015" ; Times: 1
+	Query: "senticolis triaspis" ; Times: 3
+	Query: "Hemidactylus turcicus" ; Times: 2
+	Query: "Agkistrodon contortrix stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "distance(location,geopoint(31.659036,-111.127516))&lt;15000" ; Times: 1
+	Query: "gila monster" ; Times: 1
+	Query: "Crotalus family:Viperidae county:&#34;Bernalillo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "canis lupus texas" ; Times: 1
+	Query: "barisia imbricata" ; Times: 1
+	Query: "genus:Trimorphodon county:&#34;Hudspeth&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:Viperidae county:&#34;Murray&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "family:Viperidae county:&#34;Garvin&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Pantherophis emoryi New Mexico" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "family:Viperidae county:&#34;McKinley&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "oxyura new mexico" ; Times: 1
+	Query: "Heterodon Cochise county" ; Times: 3
+	Query: "Ambystoma opacum stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "Storeria occipitomaculata stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "family:Viperidae county:&#34;Greenlee&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus family:Viperidae county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "drymobius margaritiferus" ; Times: 1
+	Query: "distance(location,geopoint(20.827036,-105.509516))&lt;15000" ; Times: 1
+	Query: "phrynosoma orbiculare" ; Times: 2
+	Query: "distance(location,geopoint(31.769036,-110.247516))&lt;15000" ; Times: 1
+	Query: "Siren intermedia" ; Times: 1
+	Query: "deer mice utah" ; Times: 1
+	Query: "Anguis" ; Times: 2
+	Query: "thamnophis rufipunctatus" ; Times: 1
+	Query: "heterodon nasicus" ; Times: 3
+	Query: "family:Viperidae county:&#34;Noble&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+	Query: "manni" ; Times: 2
+	Query: "fox snake" ; Times: 1
+	Query: "distance(location,geopoint(27.145036,-109.331516))&lt;15000" ; Times: 1
+	Query: "elf" ; Times: 6
+	Query: "specificepithet:molossus genus:Crotalus family:Viperidae county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "plestiodon lynxe" ; Times: 1
+	Query: "Sauromalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-113.547516))&lt;15000" ; Times: 1
+	Query: "Sceloporus ornatus ornatus mappable:1" ; Times: 1
+	Query: "family:Viperidae county:&#34;Luna&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "eleutherodactylus cystignathoides" ; Times: 1
+	Query: "specificepithet:molossus genus:Crotalus family:Viperidae county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus country:&#34;mexico&#34;" ; Times: 1
+	Query: "family:Viperidae county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 3
+	Query: "Iguanidae type:specimen (skeleton)" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima" ; Times: 2
+	Query: "family:Viperidae county:&#34;Pontotoc&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "family:Viperidae county:&#34;Colfax&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "family:Viperidae county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "GERRHONOTUS LIOCEPHALUS" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "vipera georgia" ; Times: 1
+	Query: "aves Polioptila nigriceps new mexico" ; Times: 1
+	Query: "genus:lampropeltis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:Viperidae county:&#34;Otero&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Sceloporus tristichus stateprovince:&#34;Arizona&#34; country:&#34;United States&#34; year &gt;= 1970 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "Holbrookia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "boa constrictor" ; Times: 1
+	Query: "heloderma horridum" ; Times: 5
+	Query: "specificepithet:atrox genus:Crotalus family:Viperidae county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "class:reptilia country:&#34;philippines&#34;" ; Times: 2
+	Query: "Sceloporus ornatus ornatus AND (NOT caeruleus NOT undulatus) mappable:1" ; Times: 1
+	Query: "genus:Micrurus tissue:1" ; Times: 1
+	Query: "family:Viperidae county:&#34;Guadalupe&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-109.037516))&lt;15000" ; Times: 1
+	Query: "Sceloporus bulleri" ; Times: 1
+	Query: "Cemophora" ; Times: 1
+	Query: "family:Viperidae county:&#34;Maricopa&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "deirochelys" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 2
+	Query: "notophthalmus viridescens stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Phyllorhynchus browni" ; Times: 1
+	Query: "family:Viperidae county:&#34;Lea&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Timber rattlesnake" ; Times: 3
+	Query: "Thamnophis eques" ; Times: 3
+	Query: "lithobates catesbeiana" ; Times: 1
+	Query: "Pantherophis slowinskii" ; Times: 2
+	Query: "frogs" ; Times: 1
+	Query: "Pigmy Rattlesnake" ; Times: 1
+	Query: "Sus scrofa " ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 4
+	Query: "graptemys oklahoma ouachitensis" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 2
+	Query: "Uta Stansburiana stateprovince:&#34;Arizona&#34; country:&#34;United States&#34; year &gt;= 1970 year &lt;= 2016 mappable:1" ; Times: 2
+	Query: "Miohippus" ; Times: 1
+	Query: "class:Reptilia county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "salvadora grahamiae new mexico" ; Times: 1
+	Query: "taricha torosa in san diego county" ; Times: 1
+	Query: "Python reticulatus" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-106.397516))&lt;15000" ; Times: 1
+	Query: "Anolis cuprinus" ; Times: 2
+	Query: "specificepithet:cerastes genus:Crotalus family:Viperidae county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:deirochelys" ; Times: 2
+	Query: "Cottonmouth" ; Times: 1
+	Query: "genus:Phyllobates specificepithet:lugubris" ; Times: 1
+	Query: "Drymarchon corais" ; Times: 1
+	Query: "Anaxyrus retiformis" ; Times: 1
+	Query: "deer mice new mexico" ; Times: 1
+	Query: "Hognose" ; Times: 1
+	Query: "sceloporus tristichus stateprovince:&#34;Arizona&#34; country:&#34;United States&#34; year &gt;= 1970 year &lt;= 2016" ; Times: 1
+	Query: "Anaxyrus kelloggi Nayarit" ; Times: 2
+	Query: "genus:tantilla class:Reptilia county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Sceloporus ornatus ornatus AND (NOT caeruleus) mappable:1" ; Times: 1
+	Query: "sternotherus carinatus" ; Times: 1
+	Query: "Phrynosoma platyrhinos CA" ; Times: 1
+	Query: "distance(location,geopoint(27.149036,-109.367516))&lt;15000" ; Times: 1
+	Query: "Heterodon stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "kern anniella" ; Times: 1
+	Query: "family:Viperidae county:&#34;La Paz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus family:Viperidae county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Sceloporus dugesii dugesii AND (NOT intermedius) mappable:1" ; Times: 1
+	Query: "Thamnophis rufipunctatus" ; Times: 1
+	Query: "Rubber Boa" ; Times: 3
+	Query: "genus:Craugastor specificepithet:fitzingeri" ; Times: 1
+	Query: "Urosaurus graciosus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "family:Viperidae county:&#34;Pittsburg&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "urosaurus ornatus year &gt;= 2000 year &lt;= 2016" ; Times: 1
+	Query: "trimorphodon county:&#34;imperial&#34;" ; Times: 2
+	Query: "Sceloporus mucronatus mucronatus AND (NOT aureolus NOT omiltemanus) mappable:1" ; Times: 1
+	Query: "tiger salamander" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34; specificepithet:Stephensi genus:Neotoma" ; Times: 1
+	Query: "leptophis diplotropis" ; Times: 1
+	Query: "specificepithet:guttilatus country:&#34;mexico&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 72 (out of 327 download events in this period)
+Total number of records downloaded: 5863
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 41
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 19
+	Country: Philippines ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: China ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 5
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-13 ; Times: 3
+	Date: 2016-05-12 ; Times: 9
+	Date: 2016-05-31 ; Times: 15
+	Date: 2016-05-30 ; Times: 2
+	Date: 2016-05-08 ; Times: 8
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-04 ; Times: 2
+	Date: 2016-05-05 ; Times: 2
+	Date: 2016-05-07 ; Times: 4
+	Date: 2016-05-27 ; Times: 1
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-25 ; Times: 5
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-23 ; Times: 1
+	Date: 2016-05-20 ; Times: 4
+	Date: 2016-05-21 ; Times: 1
+	Date: 2016-05-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "crotalus oreganus" ; Times: 1
+	Query: "kinosternon sonoriense" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "hyla plicata" ; Times: 4
+	Query: "Sceloporus cyanostictus mappable:1" ; Times: 1
+	Query: "Lacerta vivipara" ; Times: 2
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "heloderma horridum" ; Times: 4
+	Query: "Lacerta agilis" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "calypte anna" ; Times: 1
+	Query: "uta stansburiana" ; Times: 1
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "Anguis fragilis" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "elapidae mappable:1" ; Times: 1
+	Query: "Hyla chrysoscelis" ; Times: 2
+	Query: "Python reticulatus" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "Kinosternon hirtipes" ; Times: 1
+	Query: "Iguanidae type:specimen (skeleton)" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "Anaxyrus retiformis" ; Times: 1
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Peromyscus" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "Anguis" ; Times: 2
+	Query: "Sceloporus jarrovii" ; Times: 1
+	Query: "clamitans tissue:1" ; Times: 1
+	Query: "Micrurus laticollaris" ; Times: 1
+	Query: "Dicamptodon" ; Times: 1
+	Query: "class:reptilia country:&#34;philippines&#34;" ; Times: 1
+	Query: "eleutherodactylus cystignathoides" ; Times: 1
+	Query: "Sceloporus bulleri" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "Texas Brewster type:specimen class:Aves" ; Times: 1
+	Query: "siren intermedia stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "class:Amphibia mappable:1 distance(location,geopoint(15.07212354581167,93.5595703125))&lt;937819.0681547445" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "Eurycea" ; Times: 1
+	Query: "Canis type:specimen distance(location,geopoint(37.71859032558813,-95.44921875))&lt;2776004" ; Times: 1
+	Query: "notophthalmus viridescens stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34; specificepithet:Stephensi genus:Neotoma" ; Times: 1
+	Query: "leptophis diplotropis" ; Times: 1
+	Query: "Chamaea" ; Times: 1
+	Query: "Ambystoma macrodactylum" ; Times: 1
+	Query: "Phrynosoma platyrhinos CA" ; Times: 2
+	Query: "coluber stateprovince:&#34;texas&#34;" ; Times: 1
+
+
+End of report.
