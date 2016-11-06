@@ -1,0 +1,105 @@
+Report for Institution Code UTEP, Resource utep_verts
+Usage stats for October 2016, generated on 2016/11/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 40
+Number of records retrieved in searches: 1182
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Unknown ; Times: 5
+	Country: Portugal ; Times: 9
+	Country: Colombia ; Times: 11
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-10-26 ; Times: 7
+	Date: 2016-10-31 ; Times: 1
+	Date: 2016-10-02 ; Times: 3
+	Date: 2016-10-03 ; Times: 12
+	Date: 2016-10-20 ; Times: 1
+	Date: 2016-10-08 ; Times: 1
+	Date: 2016-10-09 ; Times: 4
+	Date: 2016-10-14 ; Times: 1
+	Date: 2016-10-17 ; Times: 1
+	Date: 2016-10-05 ; Times: 3
+	Date: 2016-10-11 ; Times: 1
+	Date: 2016-10-10 ; Times: 1
+	Date: 2016-10-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: " Anolis lemurinus 1" ; Times: 1
+	Query: "Chrysemys picta 1" ; Times: 2
+	Query: " specificepithet:grammicus genus:Sceloporus mappable:1" ; Times: 4
+	Query: "Nandayus nenday 1" ; Times: 1
+	Query: "Lithobates berlandieri" ; Times: 1
+	Query: "Dendrocygna autumnalis 1" ; Times: 1
+	Query: "Anolis nebulosus 1" ; Times: 1
+	Query: "monster" ; Times: 2
+	Query: "Ursus americanus 1" ; Times: 1
+	Query: "Incilius valliceps" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus mappable:1" ; Times: 1
+	Query: " Anolis sagrei 1" ; Times: 3
+	Query: " Anolis cristatellus 1" ; Times: 1
+	Query: "Rhinella marina" ; Times: 1
+	Query: "Xenopus laevis 1" ; Times: 1
+	Query: "Lithobates catesbeianus 1" ; Times: 1
+	Query: "Leptodactylus fragilis" ; Times: 1
+	Query: "Rana catesbeiana 1" ; Times: 1
+	Query: "specificepithet:grammicus genus:Sceloporus mappable:1" ; Times: 3
+	Query: "Scinax staufferi" ; Times: 1
+	Query: "Anolis carolinensis 1" ; Times: 1
+	Query: "Anolis sagrei 1" ; Times: 2
+	Query: "genus:Notophthalmus stateprovince:north carolina" ; Times: 1
+	Query: "Trachemys scripta 1" ; Times: 1
+	Query: " Anolis taylori 1" ; Times: 1
+	Query: " Anolis nebulosus 1" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 3
+	Query: " Anolis capito 1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 106 (out of 203 download events in this period)
+Total number of records downloaded: 212
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Netherlands ; Times: 92
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-10-19 ; Times: 2
+	Date: 2016-10-18 ; Times: 3
+	Date: 2016-10-31 ; Times: 1
+	Date: 2016-10-30 ; Times: 3
+	Date: 2016-10-15 ; Times: 2
+	Date: 2016-10-14 ; Times: 4
+	Date: 2016-10-17 ; Times: 3
+	Date: 2016-10-16 ; Times: 3
+	Date: 2016-10-11 ; Times: 13
+	Date: 2016-10-13 ; Times: 8
+	Date: 2016-10-12 ; Times: 1
+	Date: 2016-10-08 ; Times: 4
+	Date: 2016-10-06 ; Times: 2
+	Date: 2016-10-29 ; Times: 3
+	Date: 2016-10-20 ; Times: 5
+	Date: 2016-10-22 ; Times: 2
+	Date: 2016-10-23 ; Times: 12
+	Date: 2016-10-24 ; Times: 5
+	Date: 2016-10-25 ; Times: 5
+	Date: 2016-10-26 ; Times: 3
+	Date: 2016-10-27 ; Times: 2
+	Date: 2016-10-28 ; Times: 2
+	Date: 2016-10-07 ; Times: 3
+	Date: 2016-10-04 ; Times: 8
+	Date: 2016-10-05 ; Times: 4
+	Date: 2016-10-02 ; Times: 2
+	Date: 2016-10-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 106
+
+
+End of report.
