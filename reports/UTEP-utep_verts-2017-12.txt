@@ -1,0 +1,512 @@
+Report for Institution Code UTEP, Resource utep_verts
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 515
+Number of records retrieved in searches: 5122
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 18
+	Country: Mexico ; Times: 55
+	Country: Unknown ; Times: 20
+	Country: United States ; Times: 378
+	Country: Sweden ; Times: 5
+	Country: China ; Times: 19
+	Country: United Kingdom ; Times: 2
+	Country: Denmark ; Times: 5
+	Country: Germany ; Times: 7
+	Country: Argentina ; Times: 2
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-30 ; Times: 2
+	Date: 2017-12-31 ; Times: 15
+	Date: 2017-12-16 ; Times: 9
+	Date: 2017-12-17 ; Times: 11
+	Date: 2017-12-14 ; Times: 12
+	Date: 2017-12-15 ; Times: 17
+	Date: 2017-12-12 ; Times: 38
+	Date: 2017-12-13 ; Times: 14
+	Date: 2017-12-10 ; Times: 15
+	Date: 2017-12-11 ; Times: 34
+	Date: 2017-12-18 ; Times: 22
+	Date: 2017-12-19 ; Times: 9
+	Date: 2017-12-29 ; Times: 4
+	Date: 2017-12-28 ; Times: 2
+	Date: 2017-12-27 ; Times: 6
+	Date: 2017-12-26 ; Times: 12
+	Date: 2017-12-25 ; Times: 1
+	Date: 2017-12-24 ; Times: 7
+	Date: 2017-12-23 ; Times: 14
+	Date: 2017-12-22 ; Times: 22
+	Date: 2017-12-21 ; Times: 32
+	Date: 2017-12-20 ; Times: 6
+	Date: 2017-12-05 ; Times: 34
+	Date: 2017-12-04 ; Times: 19
+	Date: 2017-12-07 ; Times: 32
+	Date: 2017-12-06 ; Times: 52
+	Date: 2017-12-01 ; Times: 8
+	Date: 2017-12-03 ; Times: 26
+	Date: 2017-12-02 ; Times: 7
+	Date: 2017-12-09 ; Times: 10
+	Date: 2017-12-08 ; Times: 23
+
+List of queries that retrieved data from the resource: 
+	Query: "Anolis taylori" ; Times: 1
+	Query: "genus:Tantilla country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Liopeltis" ; Times: 1
+	Query: "mallard duck" ; Times: 1
+	Query: "specificepithet:catesbeianus county:&#34;Travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:Crotalus catalognumber:1026" ; Times: 2
+	Query: "Ambystoma mabeei" ; Times: 1
+	Query: "Colubridae Hendry florida" ; Times: 1
+	Query: "timber rattlesnake" ; Times: 3
+	Query: "wash family:Colubridae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Eleutherodactylus nitidus" ; Times: 1
+	Query: "specificepithet:catesbeianus county:&#34;Kendall&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "anolis nebulosus" ; Times: 1
+	Query: "genus:Crotalus catalognumber:2325" ; Times: 4
+	Query: "genus:Crotalus catalognumber:2324" ; Times: 3
+	Query: "genus:Crotalus catalognumber:2326" ; Times: 4
+	Query: "anolis barkeri" ; Times: 1
+	Query: "Reptilia Arizona harshaw" ; Times: 1
+	Query: "vntype:specimen specificepithet:stansburiana genus:Uta (frozen)" ; Times: 2
+	Query: "Naja sumatrana" ; Times: 2
+	Query: "elf" ; Times: 2
+	Query: "13083" ; Times: 1
+	Query: "genus:Tantilla year &gt;= 2000" ; Times: 2
+	Query: "cougar" ; Times: 2
+	Query: "mountain lion" ; Times: 2
+	Query: "ambystoma annulatum" ; Times: 1
+	Query: "genus:drymarchon county:&#34;monroe&#34; stateprovince:&#34;Florida&#34;" ; Times: 3
+	Query: "genus:Crotalus catalognumber:1548" ; Times: 3
+	Query: "hyla pentheter" ; Times: 2
+	Query: "family:Helodermatidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Charina trivirgata" ; Times: 2
+	Query: "19403" ; Times: 1
+	Query: "Viperidae South Carolina year &gt;= 1980 year &lt;= 2017" ; Times: 1
+	Query: "family:Anguidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "wash specificepithet:suspectum family:Helodermatidae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:mabeei year &gt;= 1959 mappable:1" ; Times: 1
+	Query: "specificepithet:ornata stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "wash family:Iguanidae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Cemophora stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34; month &gt;= 8 month &lt;= 11" ; Times: 1
+	Query: "family:Hylidae locality:Rayon" ; Times: 1
+	Query: "family:Crotaphytidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Nerodia harteri" ; Times: 2
+	Query: "specificepithet:guttatus genus:Pantherophis  mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 1
+	Query: "catalognumber:642" ; Times: 1
+	Query: "specificepithet:marmorata county:&#34;santa barbara&#34; recordedby:sweet" ; Times: 1
+	Query: "Anolis compressicauda" ; Times: 1
+	Query: "river specificepithet:wislizenii family:Crotaphytidae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "creek family:Anguidae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Ambystoma jasper" ; Times: 1
+	Query: "Sceloporus nelsoni durango" ; Times: 4
+	Query: "Genoa" ; Times: 1
+	Query: "anolis isthmicus" ; Times: 1
+	Query: "Reptilia county:&#34;Flagler&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "genus:Cemophora stateprovince:&#34;Alabama&#34; country:&#34;United States&#34; month &gt;= 8 month &lt;= 11" ; Times: 1
+	Query: "h 8289" ; Times: 1
+	Query: "Anolis barkeri" ; Times: 1
+	Query: "specificepithet:elapsoides genus:Lampropeltis stateprovince:&#34;Florida&#34; country:&#34;United States&#34; month &gt;= 3 month &lt;= 6" ; Times: 1
+	Query: "Ambystoma mabeei South Carolina Berkeley" ; Times: 1
+	Query: "genus:ambystoma county:&#34;lane&#34; stateprovince:&#34;oregon&#34; year &gt;= 1950 mappable:1" ; Times: 1
+	Query: "creek family:Phrynosomatidae stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:Liopeltis country:&#34;malaysia&#34;" ; Times: 2
+	Query: "Scott bar Salamander" ; Times: 2
+	Query: "Caudata county:&#34;Putnam&#34; stateprovince:&#34;Florida&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 2
+	Query: "5 lined skink" ; Times: 1
+	Query: "eleutherodactylus angustidigitorum" ; Times: 1
+	Query: "craugastor augusti" ; Times: 1
+	Query: "Sanger" ; Times: 1
+	Query: "thamnophis durango" ; Times: 13
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "california slender salamander" ; Times: 1
+	Query: "xenopeltis unicolor" ; Times: 1
+	Query: "creek family:Crotaphytidae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Sceloporus county:&#34;San Diego&#34; year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "hidalgo notiosorex mexico" ; Times: 2
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "specificepithet:maculosus genus:Necturus stateprovince:Illinois county:Lake" ; Times: 12
+	Query: "Anolis isthmicus" ; Times: 1
+	Query: "genus:crotalus class:reptilia stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "creek family:Teiidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "senticolis triaspis" ; Times: 1
+	Query: "anolis microlepidotus" ; Times: 1
+	Query: "El Paso Zoo El Paso County Texas" ; Times: 3
+	Query: "Ambystoma mabeei North Carolina" ; Times: 1
+	Query: "stream family:Phrynosomatidae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:fulvius genus:Micrurus stateprovince:&#34;Mississippi&#34; country:&#34;United States&#34; month &gt;= 3 month &lt;= 6" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anolis mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 4
+	Query: "thamnophis durango AND (cyrtopsis)" ; Times: 1
+	Query: "wash genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:sceloporus county:&#34;winkler&#34;" ; Times: 1
+	Query: "sternotherus odoratus texas" ; Times: 1
+	Query: "class:Reptilia county:&#34;Dixie&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "Calliophis bivirgata" ; Times: 3
+	Query: "trowbridge" ; Times: 1
+	Query: "Phoenix Zoo" ; Times: 7
+	Query: "wash family:Viperidae stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "family:Phrynosomatidae stateprovince:&#34;Nevada&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "creek family:Helodermatidae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Tantilla rubra" ; Times: 1
+	Query: "river family:Crotaphytidae stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "specificepithet:stansburiana genus:Uta year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "river specificepithet:suspectum family:Helodermatidae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "bruni" ; Times: 1
+	Query: "specificepithet:molossus genus:crotalus hastissue:1" ; Times: 2
+	Query: "crotalus cerastes maricopa arizona" ; Times: 1
+	Query: "eleutherodactylus nitidus" ; Times: 1
+	Query: "Lampropeltis getula stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "aspidoscelis stateprovince:&#34;California&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "el palmito sinaloa sceloporus" ; Times: 1
+	Query: "specificepithet:oreganus genus:crotalus hastissue:1" ; Times: 2
+	Query: "river family:Colubridae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Crotalus catalognumber:1762" ; Times: 2
+	Query: "phyllorhynchus maricopa arizona" ; Times: 1
+	Query: "Drymarchon stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "stream family:Colubridae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Naja nigricollis" ; Times: 4
+	Query: "anolis cuprinus" ; Times: 1
+	Query: "Natriciteres olivacea" ; Times: 2
+	Query: "Ambystoma annulatum washington arkansas" ; Times: 1
+	Query: "specificepithet:catesbeianus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:woodhousii stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Anotheca spinosa" ; Times: 5
+	Query: "specificepithet:nigricollis genus:naja" ; Times: 1
+	Query: "Pseustes poecilonotus" ; Times: 2
+	Query: "Incilius perplexus" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anolis  mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 2
+	Query: "specificepithet:carolina genus:Terrapene mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 3
+	Query: "specificepithet:stansburiana genus:Uta county:&#34;San Diego&#34; year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 2
+	Query: "hellbender" ; Times: 1
+	Query: "creek family:Boidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "arroyo family:Colubridae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Kinosternon durango" ; Times: 1
+	Query: "wash family:Phrynosomatidae stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "el palmito sinaloa reptilia" ; Times: 2
+	Query: "specificepithet:mentovarius genus:masticophis stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "thamnophis melanogaster mexico zacatecas" ; Times: 1
+	Query: "county:&#34;Blanco&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Alamogordo Zoo" ; Times: 1
+	Query: "phrynosoma orbiculare" ; Times: 1
+	Query: "Reptilia Arizona patagonia" ; Times: 3
+	Query: "17301" ; Times: 1
+	Query: "genus:Trachycephalus specificepithet:typhonius" ; Times: 2
+	Query: "gbifdatasetid:bd2feca8-ec39-4480-9dad-e353ab6a506d" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Florida&#34; institutioncode:UTEP" ; Times: 1
+	Query: "creek family:Viperidae stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "genus:Crotalus catalognumber:11577" ; Times: 1
+	Query: "specificepithet:solare genus:Phrynosoma stateprovince:&#34;Arizona&#34; country:&#34;United States&#34; month &lt;= 520" ; Times: 2
+	Query: "specificepithet:scutulatus genus:crotalus hastissue:1" ; Times: 3
+	Query: "Ambystoma mabeei South Carolina" ; Times: 1
+	Query: "El Paso Zoo" ; Times: 1
+	Query: "specificepithet:flava genus:piranga stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Pseudacris streckeri" ; Times: 1
+	Query: "specificepithet:ornata class:Amphibia stateprovince:&#34;Mississippi&#34;" ; Times: 2
+	Query: "genus:Drymarchon stateprovince:&#34;Florida&#34;" ; Times: 4
+	Query: "Thamnophis durango el salto" ; Times: 8
+	Query: "specificepithet:guttatus genus:Pantherophis mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 4
+	Query: "Phoenix Zoo Maricopa County" ; Times: 1
+	Query: "specificepithet:lepidus genus:crotalus hastissue:1" ; Times: 1
+	Query: "genus:Aspidoscelis county:&#34;Gila&#34; stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "mudpuppies" ; Times: 1
+	Query: "county:&#34;Winkler&#34;" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "pternohyla fodiens" ; Times: 1
+	Query: "family:Elapidae county:&#34;Pinal&#34;" ; Times: 4
+	Query: "genus:Crotalus catalognumber:20494" ; Times: 2
+	Query: "Reptilia county:&#34;Baker&#34; stateprovince:&#34;Florida&#34;" ; Times: 5
+	Query: "Eurycea chamberlaini" ; Times: 5
+	Query: "genus:Crotalus catalognumber:73" ; Times: 1
+	Query: "Lichanura arizona" ; Times: 1
+	Query: "family:Boidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "creek specificepithet:collaris family:Crotaphytidae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Stenorrhina degenhardtii" ; Times: 1
+	Query: "liopeltis" ; Times: 3
+	Query: "river family:Helodermatidae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Crotalus hidalgo" ; Times: 9
+	Query: "arroyo family:Colubridae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "anolis compressicauda" ; Times: 1
+	Query: "Naja melanoleuca" ; Times: 4
+	Query: "sceloporus goldmani" ; Times: 1
+	Query: "genus:Cemophora stateprovince:&#34;Mississippi&#34; country:&#34;United States&#34; month &gt;= 3 month &lt;= 6" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "19598" ; Times: 1
+	Query: "river family:Viperidae stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "creek specificepithet:dorsalis family:Iguanidae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Ambystoma taylori" ; Times: 1
+	Query: "eleutherodactylus pipilans" ; Times: 1
+	Query: "Florida pituophis" ; Times: 2
+	Query: "hyla smaragdina" ; Times: 1
+	Query: "specificepithet:hobartsmithi genus:Tantilla" ; Times: 1
+	Query: "Amphibia county:&#34;Baker&#34; stateprovince:&#34;Florida&#34;" ; Times: 3
+	Query: "Lizards" ; Times: 2
+	Query: "wash specificepithet:dorsalis family:Iguanidae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Florida&#34; institutioncode:UTEP" ; Times: 1
+	Query: "Caudata Berkeley South Carolina year &gt;= 1980 year &lt;= 2017" ; Times: 1
+	Query: "Charina trivirgata stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:scripta genus:Trachemys mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 5
+	Query: "Siren county:&#34;Putnam&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "trumpeter swan" ; Times: 2
+	Query: "anolis subocularis" ; Times: 1
+	Query: "anolis laeviventris" ; Times: 1
+	Query: "masticophis mentovarius" ; Times: 1
+	Query: "county:&#34;Dixie&#34; stateprovince:&#34;Florida&#34; institutioncode:UTEP" ; Times: 1
+	Query: "creek specificepithet:suspectum family:Helodermatidae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "reptilia dragoon" ; Times: 1
+	Query: "wash family:Helodermatidae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "kinosternon sonoriense new mexico" ; Times: 1
+	Query: "El Paso Zoo Texas" ; Times: 2
+	Query: "specificepithet:semiannulata genus:Sonora county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Crotalus catalognumber:64" ; Times: 1
+	Query: "genus:Crotalus catalognumber:65" ; Times: 2
+	Query: "Pituophis melanoleucus north carolina" ; Times: 1
+	Query: "Ambystoma annulatum Arkansas" ; Times: 1
+	Query: "Anotheca spinosa mappable:1" ; Times: 8
+	Query: "specificepithet:grammicus genus:Sceloporus mappable:1" ; Times: 18
+	Query: "PLESTIODON FASCIATUS kansas" ; Times: 2
+	Query: "Colubridae South Carolina year &gt;= 1980 year &lt;= 2017" ; Times: 1
+	Query: "Coniophanes Oaxaca" ; Times: 1
+	Query: "genus:Tantilla institutioncode:UTEP" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "specificepithet:undulatus genus:Sceloporus year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "specificepithet:cowlesi genus:Sceloporus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:lecontei county:&#34;San Diego&#34; year &gt;= 1850 year &lt;= 2017" ; Times: 1
+	Query: "Bobcat" ; Times: 1
+	Query: "genus:Tantilla year &gt;= 2000 institutioncode:UTEP" ; Times: 1
+	Query: "Pitta sordida" ; Times: 1
+	Query: "specificepithet:elapsoides genus:Lampropeltis stateprovince:&#34;Alabama&#34; country:&#34;United States&#34; month &gt;= 3 month &lt;= 6" ; Times: 1
+	Query: "Eurycea quadridigitata Texas" ; Times: 2
+	Query: "specificepithet:catesbeianus county:&#34;Gillespie&#34; stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "genus:Crotalus catalognumber:10" ; Times: 1
+	Query: "Lichanura trivirgata stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "specificepithet:stansburiana genus:Uta county:&#34;san Diego&#34; year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "genus:Tantilla year &gt;= 2005 institutioncode:UTEP" ; Times: 1
+	Query: "vj" ; Times: 1
+	Query: "Buena Park" ; Times: 1
+	Query: "Sceloporus merriami" ; Times: 1
+	Query: "genus:Crotalus catalognumber:12" ; Times: 1
+	Query: "anaxyrus kelloggi" ; Times: 1
+	Query: "specificepithet:consobrinus genus:Sceloporus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Amphibia distance(location,geopoint(30.787149183236096,-89.02954090386629))&lt;24880" ; Times: 1
+	Query: "chilomeniscus cinctus" ; Times: 2
+	Query: "Coniophanes piceivittis" ; Times: 1
+	Query: "craugastor occidentalis" ; Times: 1
+	Query: "family:Viperidae county:&#34;Pinal&#34;" ; Times: 1
+	Query: "genus:Crotalus catalognumber:3" ; Times: 1
+	Query: "16622" ; Times: 1
+	Query: "hidalgo notiosorex" ; Times: 2
+	Query: "genus:ficimia stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "anolis taylori" ; Times: 2
+	Query: "Sonora semiannulata county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:crotalus hastissue:1" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus" ; Times: 2
+	Query: "creek family:Colubridae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "creek family:Scincidae stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Micruroides euryxanthus" ; Times: 2
+	Query: "Anolis cuprinus" ; Times: 1
+	Query: "lichanura maricopa arizona" ; Times: 1
+	Query: "genus:Crotalus catalognumber:11019" ; Times: 2
+	Query: "Anolis subocularis" ; Times: 1
+	Query: "Crotalus pricei stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "aneides aeneus" ; Times: 1
+	Query: "Reptilia county:&#34;Putnam&#34; stateprovince:&#34;Florida&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 3
+	Query: "hyla smithi" ; Times: 1
+	Query: "Nerodia harteri Palo Pinto" ; Times: 1
+	Query: "Anaxyrus mexicanus" ; Times: 1
+	Query: "painted turtle" ; Times: 1
+	Query: "tantilla rubra" ; Times: 1
+	Query: "Crotalus lepidus hidalgo county" ; Times: 2
+	Query: "craugastor pygmaeus" ; Times: 1
+	Query: "family:Eublepharidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "river family:Eublepharidae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "catalognumber:17194" ; Times: 1
+	Query: "Copperhead Data" ; Times: 1
+	Query: "Oxybelis fulgidus Oaxaca" ; Times: 1
+	Query: "wash family:Crotaphytidae stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "catalognumber:9995" ; Times: 1
+	Query: "genus:Crotalus catalognumber:6" ; Times: 2
+	Query: "wash family:Teiidae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "thamnophis brachystoma stateprovince:&#34;New york&#34;" ; Times: 1
+	Query: "gopher frog" ; Times: 1
+	Query: "Plethodon mississippi year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "anaxyrus retiformis" ; Times: 3
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "Lithobates forreri" ; Times: 1
+	Query: "genus:Crotalus catalognumber:4" ; Times: 2
+	Query: "13875" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;louisiana&#34; year &gt;= 1990 distance(location,geopoint(30.277807189378905,-89.74628448486328))&lt;100000" ; Times: 1
+	Query: "specificepithet:elapsoides genus:Lampropeltis stateprovince:&#34;Mississippi&#34; country:&#34;United States&#34; month &gt;= 8 month &lt;= 11" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 4
+	Query: "stream family:Phrynosomatidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "creek family:Teiidae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;South Carolina&#34; isfossil:1" ; Times: 1
+	Query: "specificepithet:undulatus genus:Sceloporus year &gt;= 2005 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "tantilla atriceps" ; Times: 1
+	Query: "specificepithet:Chaneque stateprovince:&#34;Chiapas&#34;" ; Times: 6
+	Query: "box turtle" ; Times: 3
+	Query: "genus:Crotalus catalognumber:7" ; Times: 1
+	Query: "Eurycea chamberlaini North Carolina" ; Times: 1
+	Query: "agalychnis dacnicolor" ; Times: 1
+	Query: "thamnophis brachystoma stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "family:Viperidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "genus:Crotalus catalognumber:2" ; Times: 1
+	Query: "genus:sceloporus county:&#34;Winkler&#34;" ; Times: 2
+	Query: "order:squamata stateprovince:&#34;Tlaxcala&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 113 (out of 674 download events in this period)
+Total number of records downloaded: 54611
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 62
+	Country: China ; Times: 1
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 49
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-14 ; Times: 5
+	Date: 2017-12-15 ; Times: 3
+	Date: 2017-12-12 ; Times: 10
+	Date: 2017-12-13 ; Times: 23
+	Date: 2017-12-11 ; Times: 3
+	Date: 2017-12-18 ; Times: 3
+	Date: 2017-12-19 ; Times: 3
+	Date: 2017-12-28 ; Times: 1
+	Date: 2017-12-27 ; Times: 2
+	Date: 2017-12-26 ; Times: 3
+	Date: 2017-12-24 ; Times: 1
+	Date: 2017-12-23 ; Times: 1
+	Date: 2017-12-21 ; Times: 2
+	Date: 2017-12-20 ; Times: 1
+	Date: 2017-12-05 ; Times: 4
+	Date: 2017-12-04 ; Times: 12
+	Date: 2017-12-07 ; Times: 4
+	Date: 2017-12-06 ; Times: 4
+	Date: 2017-12-01 ; Times: 6
+	Date: 2017-12-03 ; Times: 17
+	Date: 2017-12-02 ; Times: 1
+	Date: 2017-12-08 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "anolis capito" ; Times: 1
+	Query: "Anolis taylori" ; Times: 1
+	Query: "family:Viperidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Ambystoma mabeei" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;Nevada&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "anolis nebulosus" ; Times: 1
+	Query: "Megaceryle alcyon" ; Times: 1
+	Query: "family:Helodermatidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "family:Anguidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Anolis uniformis" ; Times: 1
+	Query: "plestiodon laticeps" ; Times: 1
+	Query: "family:Crotaphytidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "specificepithet:marmorata county:&#34;santa barbara&#34; recordedby:sweet" ; Times: 1
+	Query: "anolis crassulus" ; Times: 1
+	Query: "Urosaurus graciosus" ; Times: 1
+	Query: "anolis isthmicus" ; Times: 1
+	Query: "Anolis barkeri" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "eleutherodactylus angustidigitorum" ; Times: 1
+	Query: "craugastor augusti" ; Times: 1
+	Query: "family:Teiidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 2
+	Query: "anolis sericeus" ; Times: 1
+	Query: "anolis microlepidotus" ; Times: 1
+	Query: "Aspidoscelis tigris" ; Times: 1
+	Query: "Anolis crassulus" ; Times: 1
+	Query: "Falco sparverius vntype:specimen" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Reptilia Campeche" ; Times: 1
+	Query: "stateprovince:&#34;Campeche&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "eleutherodactylus nitidus" ; Times: 1
+	Query: "Anolis isthmicus" ; Times: 1
+	Query: "anolis lemurinus" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "Naja naja" ; Times: 1
+	Query: "family:Iguanidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "anolis cuprinus" ; Times: 1
+	Query: "craugastor pygmaeus" ; Times: 1
+	Query: "Incilius occidentalis" ; Times: 1
+	Query: "family:Boidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Incilius perplexus" ; Times: 1
+	Query: "Anaxyrus compactilis" ; Times: 1
+	Query: "Crotalus oreganus" ; Times: 1
+	Query: "Anolis tropidonotus" ; Times: 1
+	Query: "Anolis capito" ; Times: 1
+	Query: "thamnophis melanogaster mexico zacatecas" ; Times: 1
+	Query: "gbifdatasetid:bd2feca8-ec39-4480-9dad-e353ab6a506d" ; Times: 1
+	Query: "amphibia Campeche" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "anolis barkeri" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "Anolis compressicauda" ; Times: 1
+	Query: "Virginia Rail" ; Times: 1
+	Query: "family:Anguidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "family:Scincidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "sceloporus goldmani" ; Times: 1
+	Query: "family:Emydidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "anolis compressicauda" ; Times: 1
+	Query: "sorex preblei" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "plestiodon inexpectatus" ; Times: 1
+	Query: "sorex monticolus" ; Times: 1
+	Query: "Incilius marmoreus" ; Times: 1
+	Query: "eleutherodactylus pipilans" ; Times: 1
+	Query: "hyla smaragdina" ; Times: 1
+	Query: "anolis nebuloides" ; Times: 1
+	Query: "genus:Naja" ; Times: 1
+	Query: "preparations:egg" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "anolis subocularis" ; Times: 1
+	Query: "anolis laeviventris" ; Times: 1
+	Query: "sylvilagus audubonii" ; Times: 1
+	Query: "sorex nanus" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "cnemidophorus" ; Times: 1
+	Query: "Pitta sordida" ; Times: 1
+	Query: "family:Teiidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "chipmunk" ; Times: 1
+	Query: "eumeces inexpectatus" ; Times: 1
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "craugastor occidentalis" ; Times: 1
+	Query: "Aphelocoma ultramarina" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "reptilia quintana roo" ; Times: 1
+	Query: "creek family:Scincidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Anolis cuprinus" ; Times: 1
+	Query: "Calotes versicolor" ; Times: 2
+	Query: "Aspidoscelis" ; Times: 2
+	Query: "Anolis subocularis" ; Times: 1
+	Query: "hyla smithi" ; Times: 1
+	Query: "Anolis biporcatus" ; Times: 1
+	Query: "family:Eublepharidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Sceloporus jarrovii" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Charina trivirgata" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "sorex merriami" ; Times: 1
+	Query: "stateprovince:&#34;Quintana Roo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "anolis biporcatus" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "anolis sagrei" ; Times: 1
+	Query: "tiger salamander" ; Times: 1
+	Query: "king eider" ; Times: 1
+	Query: "brown bear" ; Times: 1
+	Query: "agalychnis dacnicolor" ; Times: 1
+	Query: "family:Viperidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+
+
+End of report.
