@@ -1,0 +1,136 @@
+Report for Institution Code UTEP, Resource utep_verts
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 86
+Number of records retrieved in searches: 637
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 19
+	Country: Denmark ; Times: 1
+	Country: Nepal ; Times: 1
+	Country: United States ; Times: 57
+	Country: Colombia ; Times: 5
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 5
+	Date: 2017-11-29 ; Times: 38
+	Date: 2017-11-26 ; Times: 6
+	Date: 2017-11-27 ; Times: 12
+	Date: 2017-11-24 ; Times: 4
+	Date: 2017-11-25 ; Times: 12
+	Date: 2017-11-30 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "KInosternon sonoriense" ; Times: 2
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "genus:Hyla specificepithet:arborea" ; Times: 1
+	Query: "Eunectes" ; Times: 2
+	Query: "snakes" ; Times: 1
+	Query: "heloderma" ; Times: 1
+	Query: "texas horned lizard" ; Times: 1
+	Query: "specificepithet:eques genus:Thamnophis" ; Times: 1
+	Query: "gerrhonotus infernalis" ; Times: 1
+	Query: "specificepithet:typhonius genus:Trachycephalus stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "crocodylus skeleton niloticus" ; Times: 1
+	Query: "notophthalmus meridionalis" ; Times: 1
+	Query: "Agalychnis moreletii" ; Times: 4
+	Query: "USNM 3015" ; Times: 1
+	Query: "genus:Crotalus catalognumber:72" ; Times: 1
+	Query: "geophis dugesii" ; Times: 1
+	Query: "Lithobates maculatus" ; Times: 1
+	Query: "viperinae" ; Times: 2
+	Query: "Lithobates vibicarius" ; Times: 1
+	Query: "snake stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "specificepithet:catenatus genus:sistrurus" ; Times: 2
+	Query: "elf" ; Times: 3
+	Query: "13083" ; Times: 1
+	Query: "genus:Crotalus catalognumber:18659" ; Times: 2
+	Query: "genus:Crotalus catalognumber:18658" ; Times: 2
+	Query: "genus:Crotalus catalognumber:18656" ; Times: 2
+	Query: "Hypopachus barberi" ; Times: 2
+	Query: "Lithobates chiricahuensis" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Missouri&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "crotalus triseriatus" ; Times: 1
+	Query: "genus:Crotalus catalognumber:25" ; Times: 1
+	Query: "(marmorata sweet)" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "micrurus browni" ; Times: 1
+	Query: "genus:Crotalus catalognumber:503" ; Times: 1
+	Query: "Cynomys gunnisoni skeleton" ; Times: 1
+	Query: "genus:Crotalus catalognumber:19268" ; Times: 2
+	Query: "genus:Vipera year &gt;= 1980 year &lt;= 2017" ; Times: 1
+	Query: "cryptobranchus turtlepoint" ; Times: 2
+	Query: "genus:Crotalus catalognumber:4394" ; Times: 2
+	Query: "masticophis schotti" ; Times: 1
+	Query: "genus:Rhinocheilus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "12642" ; Times: 1
+	Query: "genus:Crotalus catalognumber:482" ; Times: 4
+	Query: "specificepithet:cinerea genus:Hyla stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "genus:Ophisaurus year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "Macrocalamus lateralis mappable:1" ; Times: 1
+	Query: "county:&#34;Henderson&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "Lithobates forreri" ; Times: 1
+	Query: "collared lizard" ; Times: 1
+	Query: "UTA R-6231" ; Times: 2
+	Query: "phrynosoma modestum zacatecas" ; Times: 1
+	Query: "Crocodylus skeleton niloticus" ; Times: 1
+	Query: "micrurus laticollaris" ; Times: 1
+	Query: "masticophis taeniatus mexico" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 3
+	Query: "genus:Crotalus catalognumber:18646" ; Times: 2
+	Query: "masticophis taeniatus durango" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1101 download events in this period)
+Total number of records downloaded: 892
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Israel ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: Colombia ; Times: 11
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-27 ; Times: 3
+	Date: 2017-11-25 ; Times: 12
+	Date: 2017-11-30 ; Times: 2
+	Date: 2017-11-28 ; Times: 2
+	Date: 2017-11-29 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "gerrhonotus infernalis" ; Times: 1
+	Query: "Agalychnis moreletii" ; Times: 1
+	Query: "specificepithet:vibicarius genus:Lithobates mappable:1 continent:america" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "Lithobates maculatus" ; Times: 1
+	Query: "sceloporus occidentalis" ; Times: 1
+	Query: "specificepithet:boylii genus:rana stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Hypopachus barberi" ; Times: 1
+	Query: "specificepithet:brownorum genus:Lithobates mappable:1 continent:america" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Macrocalamus lateralis mappable:1" ; Times: 1
+	Query: "specificepithet:maculatus genus:Lithobates mappable:1 continent:america" ; Times: 1
+	Query: "Lithobates vibicarius" ; Times: 1
+	Query: "specificepithet:typhonius genus:Trachycephalus mappable:1 continent:america" ; Times: 1
+	Query: "genus: Sylvilagus floridanus" ; Times: 1
+	Query: "specificepithet:barberi genus:Hypopachus mappable:1 continent:america" ; Times: 1
+	Query: "Lithobates forreri" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "Lithobates brownorum" ; Times: 1
+	Query: "specificepithet:forreri genus:Lithobates mappable:1 continent:america" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "Phrynosoma modestum" ; Times: 1
+
+
+End of report.
