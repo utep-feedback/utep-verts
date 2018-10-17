@@ -1,0 +1,552 @@
+Report for Institution Code UTEP, Resource utep_verts
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 423
+Number of records retrieved in searches: 3473
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 294
+	Country: Australia ; Times: 5
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 62
+	Country: Unknown ; Times: 7
+	Country: Finland ; Times: 1
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 5
+	Country: Austria ; Times: 1
+	Country: Netherlands ; Times: 3
+	Country: China ; Times: 2
+	Country: Spain ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Hungary ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Germany ; Times: 22
+	Country: Nicaragua ; Times: 4
+	Country: Russia ; Times: 4
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 40
+	Date: 2018-06-06 ; Times: 36
+	Date: 2018-06-05 ; Times: 30
+	Date: 2018-06-04 ; Times: 23
+	Date: 2018-06-03 ; Times: 7
+	Date: 2018-06-02 ; Times: 14
+	Date: 2018-06-01 ; Times: 11
+	Date: 2018-06-25 ; Times: 15
+	Date: 2018-06-24 ; Times: 9
+	Date: 2018-06-27 ; Times: 25
+	Date: 2018-06-26 ; Times: 2
+	Date: 2018-06-21 ; Times: 9
+	Date: 2018-06-20 ; Times: 23
+	Date: 2018-06-23 ; Times: 17
+	Date: 2018-06-08 ; Times: 21
+	Date: 2018-06-09 ; Times: 4
+	Date: 2018-06-22 ; Times: 12
+	Date: 2018-06-10 ; Times: 2
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-12 ; Times: 6
+	Date: 2018-06-13 ; Times: 7
+	Date: 2018-06-14 ; Times: 6
+	Date: 2018-06-15 ; Times: 12
+	Date: 2018-06-16 ; Times: 6
+	Date: 2018-06-17 ; Times: 3
+	Date: 2018-06-18 ; Times: 16
+	Date: 2018-06-19 ; Times: 10
+	Date: 2018-06-30 ; Times: 14
+	Date: 2018-06-29 ; Times: 10
+	Date: 2018-06-28 ; Times: 32
+
+List of queries that retrieved data from the resource: 
+	Query: "Sternotherus Forrest Mississippi" ; Times: 1
+	Query: "genus:Hyla specificepithet:arborea" ; Times: 2
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "Nerodia harteri" ; Times: 10
+	Query: "genus:aspidoscelis stateprovince:&#34;zacatecas&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "uma yuma arizona" ; Times: 3
+	Query: "specificepithet:cenchoa genus:Imantodes" ; Times: 1
+	Query: "class:Reptilia county:&#34;Hidalgo&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "plains spadefoot" ; Times: 1
+	Query: "Crotalus pricei; MX" ; Times: 1
+	Query: "Plestiodon septentrionalis" ; Times: 1
+	Query: "specificepithet:infernalis genus:gerrhonotus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:laeviventris genus:Anolis hastissue:1" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "plestiodon tetragrammus" ; Times: 1
+	Query: "Aspidoscelis hastissue=1 year&gt;2010" ; Times: 1
+	Query: "class:Amphibia county:&#34;Hidalgo&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "dicamptodon tenebrosus columbia" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "cougar" ; Times: 2
+	Query: "empire ranch class:Reptilia county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "distance(location,geopoint(39.2400334086807,-86.5684060061948))&lt;11509" ; Times: 1
+	Query: "specificepithet:hammondii genus:Thamnophis county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "TCWC" ; Times: 1
+	Query: "specificepithet:lineatum genus:Tropidoclonion" ; Times: 1
+	Query: "catalognumber:16943" ; Times: 1
+	Query: "trivirgata arizona" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 2
+	Query: "Crotalus pricei" ; Times: 2
+	Query: "class:Reptilia county:&#34;Live Oak&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "cryptobranchus pennsylvania" ; Times: 3
+	Query: "chameleon" ; Times: 1
+	Query: "uma arizona" ; Times: 1
+	Query: "genus:Holbrookia stateprovince:texas" ; Times: 1
+	Query: "Micrurus elegans" ; Times: 1
+	Query: "fire salamander" ; Times: 1
+	Query: "16262" ; Times: 1
+	Query: "crotalus pricei" ; Times: 17
+	Query: "genus:pseudacris stateprovince:&#34;alabama&#34; (&#34;covington&#34; OR &#34;Escambia&#34;)" ; Times: 1
+	Query: "genus:Thamnophis county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "pacific giant salamander" ; Times: 2
+	Query: "pond turtle" ; Times: 1
+	Query: "specificepithet:guttatus institutioncode:UTEP" ; Times: 1
+	Query: "Aspidoscelis hastissue=1 year&gt;1995" ; Times: 1
+	Query: "giant salamander" ; Times: 2
+	Query: "class:Reptilia county:&#34;Brooks&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "platyrhinos arizona" ; Times: 1
+	Query: "eurycea chamberlaini" ; Times: 2
+	Query: "crotalus tigris" ; Times: 4
+	Query: "Crotalus pricei pricei" ; Times: 1
+	Query: "catalognumber:18464 institutioncode:UTEP" ; Times: 2
+	Query: "craugastor augusti" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "Amphiuma tridactylum" ; Times: 1
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 1
+	Query: "salamander distance(location,geopoint(45.291622691433766,-122.65539109273482))&lt;100000" ; Times: 1
+	Query: "snakes" ; Times: 2
+	Query: "Canis latrans new mexico Sandoval County" ; Times: 1
+	Query: "painted turtle" ; Times: 3
+	Query: "WESTERN SQ" ; Times: 2
+	Query: "micruroides stateprovince:&#34;arizona&#34;" ; Times: 3
+	Query: "class:Reptilia county:&#34;McMullen&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Gopherus morafkai" ; Times: 1
+	Query: "phyrnosoma" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "bobcat" ; Times: 5
+	Query: "cienega creek class:Reptilia county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Crotalus UNAM" ; Times: 1
+	Query: "Pacific Giant Salamander" ; Times: 1
+	Query: "thamnophis eques" ; Times: 1
+	Query: "willardi" ; Times: 1
+	Query: "oregon spotted frog" ; Times: 2
+	Query: "gila monster" ; Times: 2
+	Query: "genus:Holbrookia county:&#34;Hudspeth&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Northwestern Salamander" ; Times: 1
+	Query: "Missouri Reptilia" ; Times: 5
+	Query: "Kuala Lumpur" ; Times: 1
+	Query: "viperidae UTEP" ; Times: 1
+	Query: "family:Lacertidae hastissue:1" ; Times: 1
+	Query: "Crotalus basiliscus" ; Times: 4
+	Query: "specificepithet:molossus genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "specificepithet:triangulum genus:Lampropeltis hastissue:1" ; Times: 1
+	Query: "specificepithet:lepidus genus:crotalus county:&#34;brewster&#34; stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "specificepithet:nebulifer genus:incilius month &gt;= 1" ; Times: 1
+	Query: "Calotes cristatellus" ; Times: 1
+	Query: "genus:natriciteres" ; Times: 1
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "genus:Micrurus county:&#34;Val verde&#34;" ; Times: 2
+	Query: "Hyla arborea" ; Times: 1
+	Query: "western fence lizard" ; Times: 2
+	Query: "python reticulatus" ; Times: 1
+	Query: "Elgaria coerulea Washington 20" ; Times: 1
+	Query: "genus:Trimorphodon county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Crotalus viridis in CO" ; Times: 1
+	Query: "Sistrurus Valencia" ; Times: 1
+	Query: "El Paso Zoo" ; Times: 4
+	Query: "Kinyongia carpenteri" ; Times: 1
+	Query: "Vipera" ; Times: 6
+	Query: "Struthio camelus" ; Times: 2
+	Query: "anolis gadovi" ; Times: 1
+	Query: "rubber boa" ; Times: 2
+	Query: "specificepithet:cerastes genus:Crotalus hastissue:1" ; Times: 2
+	Query: "Missouri reptilia" ; Times: 1
+	Query: "Pseudemys rubriventris Maryland" ; Times: 1
+	Query: "cryptobranchus Allegheny" ; Times: 3
+	Query: "family:Testudinidae class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;México&#34;" ; Times: 2
+	Query: "crotalus willardi" ; Times: 7
+	Query: "specificepithet:oreganus genus:Crotalus county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Donley&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "heterodon nasicus" ; Times: 2
+	Query: "mountain lion" ; Times: 5
+	Query: "plestiodon anthracinus" ; Times: 1
+	Query: "sterna maxima skeleton" ; Times: 2
+	Query: "genus:Sauromalus stateprovince:&#34;Sonora&#34;" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "yellow legged frog" ; Times: 1
+	Query: "dissectus" ; Times: 1
+	Query: "catalognumber:13707 institutioncode:UTEP" ; Times: 2
+	Query: "19696" ; Times: 1
+	Query: "sceloporus graciosus arizona" ; Times: 4
+	Query: "genus:natriciteres country:&#34;congo&#34;" ; Times: 3
+	Query: "archaeological" ; Times: 1
+	Query: "specificepithet:femoralis stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "specificepithet:lacerata genus:Holbrookia" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "genus:Vipera" ; Times: 1
+	Query: "genus:Pantherophis county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 3
+	Query: "pseudemys gorzugi" ; Times: 1
+	Query: "family:Colubridae class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;México&#34;" ; Times: 2
+	Query: "catalognumber:17422 institutioncode:UTEP" ; Times: 2
+	Query: "UTA 446" ; Times: 2
+	Query: "Coleonyx elegans" ; Times: 2
+	Query: "specificepithet:tristichus genus:sceloporus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Basiliscus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "16088 vntype:specimen" ; Times: 1
+	Query: "catalognumber:13728" ; Times: 1
+	Query: "frog USA" ; Times: 5
+	Query: "genus:lampropeltis county:&#34;brewster&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:Xenopus specificepithet:wittei" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:laterale" ; Times: 1
+	Query: "specificepithet:lacerata genus:Holbrookia stateprovince:texas" ; Times: 1
+	Query: "TJL 319" ; Times: 1
+	Query: "lampropeltis calligaster distance(location,geopoint(30.473379929295014,-97.001953125))&lt;100000" ; Times: 2
+	Query: "syrrhophus cystignathoides" ; Times: 2
+	Query: "stateprovince:&#34;Florida&#34; lithobates catesbeianus" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Panthera onca en mexico" ; Times: 1
+	Query: "diamondback" ; Times: 1
+	Query: "family:Chamaeleonidae institutioncode:UTEP" ; Times: 1
+	Query: "Crotalus bernalillo" ; Times: 2
+	Query: "genus:Diadophis stateprovince:&#34;New york&#34;" ; Times: 1
+	Query: "imantodes cenchoa" ; Times: 1
+	Query: "sceloporus spinosus" ; Times: 5
+	Query: "plestiodon callicephalus" ; Times: 1
+	Query: "class:Amphibia county:&#34;Brooks&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crotalus tigris" ; Times: 2
+	Query: "class:amphibia county:&#34;Inyo&#34; year &gt;= 1961 year &lt;= 1980" ; Times: 1
+	Query: "NOTIOSOREX HIDALGO" ; Times: 1
+	Query: "lecontii" ; Times: 1
+	Query: "specificepithet:ornatus genus:crotalus county:&#34;brewster&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "desert iguana" ; Times: 3
+	Query: "black spotted newt" ; Times: 2
+	Query: "heterodon platyrhinos" ; Times: 6
+	Query: "specificepithet:mitchellii genus:crotalus stateprovince:&#34;california&#34; country:&#34;united states&#34;" ; Times: 4
+	Query: "Agkistrodon bilineatus" ; Times: 2
+	Query: "northwestern salamander" ; Times: 1
+	Query: "situla" ; Times: 1
+	Query: "Bolitoglossa sp" ; Times: 1
+	Query: "genus:Ascaphus stateprovince:&#34;Idaho&#34;" ; Times: 2
+	Query: "northern red legged frog" ; Times: 1
+	Query: "Sternotherus carinatus Mississippi" ; Times: 2
+	Query: "pseudemys texana" ; Times: 1
+	Query: "nevada lizard" ; Times: 1
+	Query: "Rhinoclemmys areolata" ; Times: 1
+	Query: "Crotalus pusillus" ; Times: 1
+	Query: "Bobcat" ; Times: 2
+	Query: "genus:Craugastor specificepithet:augusti" ; Times: 1
+	Query: "macrochelys" ; Times: 1
+	Query: "Lampropeltis alterna" ; Times: 1
+	Query: "pituophis deppei" ; Times: 7
+	Query: "Aspidoscelis hastissue=1 year&gt;2000" ; Times: 1
+	Query: "epicrates" ; Times: 1
+	Query: "Aspidoscelis hastissue=1 year&gt;2005" ; Times: 1
+	Query: "class:amphibia county:&#34;Inyo&#34; year &gt;= 1961 year &lt;= 1970" ; Times: 1
+	Query: "Box turtle" ; Times: 1
+	Query: "gerrhonotus infernalis" ; Times: 1
+	Query: "Aspidoscelis sonorae" ; Times: 2
+	Query: "Cougar" ; Times: 1
+	Query: "genus:agkistrodon county:&#34;brewster&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "penquin" ; Times: 1
+	Query: "cienega creek county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Necturus beyeri" ; Times: 1
+	Query: "Acanthocercus kiwuensis" ; Times: 1
+	Query: "Leptodeira nigrofasciata" ; Times: 5
+	Query: "frog oregon" ; Times: 1
+	Query: "Crotalus triseriatus" ; Times: 2
+	Query: "family:Teiidae class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;México&#34;" ; Times: 2
+	Query: "stereochilus marginatus" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus sex:male" ; Times: 1
+	Query: "nerodia harteri" ; Times: 1
+	Query: "Python reticulatus" ; Times: 1
+	Query: "Incilius nebulifer" ; Times: 1
+	Query: "crotalus cerastes arizona" ; Times: 1
+	Query: "class:Reptilia locality:Sonoita Creek stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "hemidactylus turcicus mississippi" ; Times: 1
+	Query: "Ammodramus lecontii" ; Times: 2
+	Query: "Notophthalmus meridionalis" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;kansas&#34;" ; Times: 2
+	Query: "southern pacific rattlesnake" ; Times: 1
+	Query: "lichanura trivirgata arizona" ; Times: 1
+	Query: "california newt" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma hastissue:1" ; Times: 2
+	Query: "genus:ambystoma stateprovince:&#34;guanajuato&#34;" ; Times: 1
+	Query: "crotalus molossus stateprovince:&#34;arizona&#34;" ; Times: 2
+	Query: "plestiodon obsoletus" ; Times: 1
+	Query: "Mudpuppy" ; Times: 4
+	Query: "genus:Phyllorhynchus county:&#34;inyo&#34;" ; Times: 1
+	Query: "colorado lizard" ; Times: 1
+	Query: "Walthall County Mississippi" ; Times: 1
+	Query: "thamnophis brachystoma" ; Times: 3
+	Query: "Northern red legged frog" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 3
+	Query: "bull frog" ; Times: 2
+	Query: "crotalus basiliscus" ; Times: 1
+	Query: "pacific salamander" ; Times: 3
+	Query: "Stereochilus marginatus" ; Times: 3
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "specificepithet:nebulifer genus:incilius month &gt;= 10" ; Times: 1
+	Query: "Taricha granulosa county:&#34;linn&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:guttata institutioncode:UTEP" ; Times: 1
+	Query: "Sphenomorphus cherriei" ; Times: 1
+	Query: "carinatus Jones County Mississippi" ; Times: 1
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "family:viperidae institutioncode:UTEP" ; Times: 1
+	Query: "Imantodes cenchoa" ; Times: 2
+	Query: "specificepithet:triangulum stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "specificepithet:gallus genus:Gallus preparations:skeleton" ; Times: 2
+	Query: "catalognumber:16602 institutioncode:UTEP" ; Times: 2
+	Query: "specificepithet:niloticus genus:crocodylus" ; Times: 2
+	Query: "specificepithet:nebulifer genus:incilius month &gt;= 1 month &lt;= 1" ; Times: 1
+	Query: "Canis latrans new mexico Sandoval" ; Times: 1
+	Query: "pantherophis bairdi" ; Times: 1
+	Query: "Catenatus oklahoma" ; Times: 3
+	Query: "genus:Diadophis stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Mountain Lion" ; Times: 2
+	Query: "bear scapula" ; Times: 1
+	Query: "blue spotted salamander" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 260 (out of 1169 download events in this period)
+Total number of records downloaded: 12265
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 9
+	Country: Mexico ; Times: 54
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Austria ; Times: 1
+	Country: Spain ; Times: 11
+	Country: Colombia ; Times: 2
+	Country: Hungary ; Times: 1
+	Country: United States ; Times: 169
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 50
+	Date: 2018-06-06 ; Times: 37
+	Date: 2018-06-05 ; Times: 32
+	Date: 2018-06-04 ; Times: 15
+	Date: 2018-06-03 ; Times: 9
+	Date: 2018-06-02 ; Times: 6
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-25 ; Times: 8
+	Date: 2018-06-27 ; Times: 4
+	Date: 2018-06-21 ; Times: 2
+	Date: 2018-06-20 ; Times: 2
+	Date: 2018-06-09 ; Times: 4
+	Date: 2018-06-08 ; Times: 34
+	Date: 2018-06-23 ; Times: 3
+	Date: 2018-06-22 ; Times: 4
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-12 ; Times: 2
+	Date: 2018-06-13 ; Times: 2
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-15 ; Times: 3
+	Date: 2018-06-16 ; Times: 4
+	Date: 2018-06-18 ; Times: 17
+	Date: 2018-06-19 ; Times: 6
+	Date: 2018-06-30 ; Times: 6
+	Date: 2018-06-29 ; Times: 2
+	Date: 2018-06-28 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Plethodon dunni" ; Times: 1
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "Taricha granulosa granulosa" ; Times: 1
+	Query: "genus:aspidoscelis stateprovince:&#34;zacatecas&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "coyote new mexico" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Phrynosoma cornutum" ; Times: 2
+	Query: "class:Reptilia county:&#34;Hidalgo&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Gopherus morafkai" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "gambelia mvz" ; Times: 1
+	Query: "Crotalus pricei; MX" ; Times: 1
+	Query: "Plestiodon septentrionalis" ; Times: 1
+	Query: "chihuahua" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "plestiodon tetragrammus" ; Times: 1
+	Query: "genus:Thamnophis county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "class:Amphibia county:&#34;Hidalgo&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "Crotalus enyo" ; Times: 1
+	Query: "Taricha torosa" ; Times: 1
+	Query: "Stereochilus marginatus" ; Times: 2
+	Query: "specificepithet:lineatum genus:Tropidoclonion" ; Times: 1
+	Query: "Crotalus ruber" ; Times: 1
+	Query: "Crotalus pricei" ; Times: 3
+	Query: "class:Reptilia county:&#34;Live Oak&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "elf owl" ; Times: 15
+	Query: "pseudemys concinna" ; Times: 1
+	Query: "american bison" ; Times: 1
+	Query: "Canis latrans new mexico" ; Times: 1
+	Query: "kangaroo rat" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Campeche&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "pond turtle" ; Times: 1
+	Query: "plestiodon laticeps" ; Times: 1
+	Query: "giant salamander" ; Times: 2
+	Query: "sea turtle" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "Gray wolf continent:North America" ; Times: 1
+	Query: "Thorius macdougalli" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "Taricha granulosa" ; Times: 3
+	Query: "wood frog continent:North America" ; Times: 1
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 2
+	Query: "bullfrog" ; Times: 3
+	Query: "class:Reptilia county:&#34;McMullen&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "Pacific Giant Salamander" ; Times: 2
+	Query: "gila monster" ; Times: 1
+	Query: "class:reptilia locality:baker" ; Times: 2
+	Query: "spotted salamander" ; Times: 5
+	Query: "Northwestern Salamander" ; Times: 1
+	Query: "red fox" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "barn owl" ; Times: 1
+	Query: "grasshopper sparrow" ; Times: 1
+	Query: "Crotalus basiliscus" ; Times: 1
+	Query: "Crotalus viridis; CO" ; Times: 1
+	Query: "specificepithet:boylii genus:rana stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "eurycea chamberlaini" ; Times: 1
+	Query: "rhyacotriton cascadae" ; Times: 1
+	Query: "Spotted Salamander" ; Times: 2
+	Query: "Crax rubra" ; Times: 1
+	Query: "western fence lizard" ; Times: 2
+	Query: "Taricha rivularis" ; Times: 1
+	Query: "python reticulatus" ; Times: 1
+	Query: "spotted owl" ; Times: 2
+	Query: "Taricha granulosa county:&#34;linn&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Rhyacotriton cascadae" ; Times: 1
+	Query: "Bobcat" ; Times: 1
+	Query: "class:Reptilia county:&#34;Brooks&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "anolis gadovi" ; Times: 1
+	Query: "newt" ; Times: 3
+	Query: "Crotalus oreganus" ; Times: 2
+	Query: "class:Reptilia haslength:1" ; Times: 1
+	Query: "Crotalus viridis in CO" ; Times: 2
+	Query: "chihuahua reptilia" ; Times: 1
+	Query: "black bear" ; Times: 4
+	Query: "family:Testudinidae class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "wood frog" ; Times: 1
+	Query: "Siren intermedia" ; Times: 1
+	Query: "pigeon guillemot" ; Times: 1
+	Query: "western toad" ; Times: 2
+	Query: "fire salamander" ; Times: 1
+	Query: "mountain lion" ; Times: 5
+	Query: "plestiodon anthracinus" ; Times: 1
+	Query: "pacific salamander" ; Times: 2
+	Query: "sloth" ; Times: 4
+	Query: "Coccothraustes vespertinus" ; Times: 1
+	Query: "yellow legged frog" ; Times: 1
+	Query: "pituophis deppei" ; Times: 5
+	Query: "Amphiuma tridactylum" ; Times: 1
+	Query: "vntype:specimen specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "Pseudacris regilla" ; Times: 1
+	Query: "specificepithet:lacerata genus:Holbrookia" ; Times: 1
+	Query: "california newt" ; Times: 2
+	Query: "Thorius troglodytes" ; Times: 1
+	Query: "pseudemys gorzugi" ; Times: 1
+	Query: "family:Colubridae class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "cougar" ; Times: 2
+	Query: "plestiodon multivirgatus" ; Times: 1
+	Query: "frog" ; Times: 1
+	Query: "plestiodon inexpectatus" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "Plestiodon fasciatus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Quintana Roo&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Panthera onca en mexico" ; Times: 1
+	Query: "family:Chamaeleonidae institutioncode:UTEP" ; Times: 1
+	Query: "Band-tailed Pigeon" ; Times: 1
+	Query: "plestiodon callicephalus" ; Times: 1
+	Query: "oregon" ; Times: 1
+	Query: "class:Amphibia county:&#34;Brooks&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "common yellowthroat" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "Claudius angustatus" ; Times: 1
+	Query: "family:Lacertidae hastissue:1" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "genus:Coniophanes country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Kinosternon leucostomum" ; Times: 1
+	Query: "black spotted newt" ; Times: 2
+	Query: "heterodon platyrhinos" ; Times: 1
+	Query: "valliceps" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "northwestern salamander" ; Times: 1
+	Query: "oregon spotted frog" ; Times: 1
+	Query: "northern red legged frog" ; Times: 2
+	Query: "Sternotherus carinatus Mississippi" ; Times: 2
+	Query: "pseudemys texana" ; Times: 1
+	Query: "Rhinoclemmys areolata" ; Times: 1
+	Query: "Crotalus pusillus" ; Times: 1
+	Query: "sterna maxima" ; Times: 1
+	Query: "crotalus adamanteus" ; Times: 1
+	Query: "Cochranella" ; Times: 2
+	Query: "gray wolf" ; Times: 2
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "situla" ; Times: 1
+	Query: "taricha granulosa" ; Times: 4
+	Query: "Kinosternon scorpioides" ; Times: 1
+	Query: "puma concolor mexico" ; Times: 1
+	Query: "class:Amphibia county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Crotalus triseriatus" ; Times: 2
+	Query: "Cougar" ; Times: 1
+	Query: "family:Teiidae class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "nerodia harteri" ; Times: 1
+	Query: "puffin" ; Times: 1
+	Query: "Incilius nebulifer" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "Regulus satrapa" ; Times: 1
+	Query: "pacific giant salamander" ; Times: 4
+	Query: "pickerel frog" ; Times: 1
+	Query: "Staurotypus triporcatus" ; Times: 1
+	Query: "painted turtle" ; Times: 1
+	Query: "plestiodon obsoletus" ; Times: 1
+	Query: "Northern red legged frog" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "Crotalus pricei pricei" ; Times: 2
+	Query: "crotalus basiliscus" ; Times: 1
+	Query: "flying squirrel" ; Times: 3
+	Query: "Anaxyrus boreas" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Amphibia SALAMANDER" ; Times: 1
+	Query: "Dermochelys coriacea" ; Times: 1
+	Query: "Podiceps grisegena" ; Times: 1
+	Query: "blue jay" ; Times: 2
+	Query: "rubber boa" ; Times: 1
+	Query: "family:viperidae institutioncode:UTEP" ; Times: 1
+	Query: "Peaks of Otter" ; Times: 1
+	Query: "Crotalus tigris" ; Times: 1
+	Query: "class:Reptilia county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Dicamptodon tenebrosus" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 1
+	Query: "Mountain Lion" ; Times: 1
+	Query: "salamander oregon" ; Times: 2
+
+
+End of report.
