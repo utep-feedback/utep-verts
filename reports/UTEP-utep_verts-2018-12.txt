@@ -1,0 +1,412 @@
+Report for Institution Code UTEP, Resource utep_verts
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 374
+Number of records retrieved in searches: 2928
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 290
+	Country: Mexico ; Times: 28
+	Country: El Salvador ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 7
+	Country: Switzerland ; Times: 2
+	Country: Sweden ; Times: 22
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 8
+	Country: Belgium ; Times: 2
+	Country: Dominican Republic ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-26 ; Times: 6
+	Date: 2018-12-06 ; Times: 9
+	Date: 2018-12-19 ; Times: 20
+	Date: 2018-12-18 ; Times: 19
+	Date: 2018-12-31 ; Times: 2
+	Date: 2018-12-30 ; Times: 8
+	Date: 2018-12-15 ; Times: 13
+	Date: 2018-12-14 ; Times: 2
+	Date: 2018-12-17 ; Times: 9
+	Date: 2018-12-16 ; Times: 5
+	Date: 2018-12-11 ; Times: 20
+	Date: 2018-12-10 ; Times: 16
+	Date: 2018-12-13 ; Times: 16
+	Date: 2018-12-12 ; Times: 39
+	Date: 2018-12-20 ; Times: 13
+	Date: 2018-12-21 ; Times: 17
+	Date: 2018-12-22 ; Times: 15
+	Date: 2018-12-23 ; Times: 5
+	Date: 2018-12-24 ; Times: 8
+	Date: 2018-12-25 ; Times: 1
+	Date: 2018-12-08 ; Times: 4
+	Date: 2018-12-09 ; Times: 9
+	Date: 2018-12-28 ; Times: 14
+	Date: 2018-12-29 ; Times: 4
+	Date: 2018-12-04 ; Times: 25
+	Date: 2018-12-05 ; Times: 13
+	Date: 2018-12-02 ; Times: 20
+	Date: 2018-12-03 ; Times: 12
+	Date: 2018-12-01 ; Times: 1
+	Date: 2018-12-07 ; Times: 29
+
+List of queries that retrieved data from the resource: 
+	Query: "blairi vntype:specimen (lithobates) institutioncode:UTEP" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Agkistrodon piscivorous" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Callahan&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "UTEP 11592" ; Times: 1
+	Query: "Southeastern crowned snake" ; Times: 1
+	Query: "alterna county:&#34;Culberson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "timber rattlesnake" ; Times: 3
+	Query: "cochise r28e" ; Times: 2
+	Query: "genus:Coleonyx county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; month &gt;= 5 month &lt;= 6" ; Times: 1
+	Query: "Queen snake" ; Times: 1
+	Query: "Kinosternon integrum colima" ; Times: 1
+	Query: "gila monster" ; Times: 2
+	Query: "UTEP 7790" ; Times: 1
+	Query: "Western fence lizard" ; Times: 1
+	Query: "Lampropeltis colima" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; institutioncode:UTEP basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 2
+	Query: "Subrubrum Mississippi jackson" ; Times: 1
+	Query: "Sceloporus melanorhinus colima" ; Times: 1
+	Query: "specificepithet:mississippi genus:Plethodon" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Reeves&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:wislizenii genus:gambelia stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "Gerrhonotus" ; Times: 1
+	Query: "Black River VIllage county:&#34;Eddy&#34;" ; Times: 1
+	Query: "catalognumber:11660" ; Times: 1
+	Query: "Reptilia Texas trinity" ; Times: 1
+	Query: "genus:Agalychnis specificepithet:dacnicolor" ; Times: 3
+	Query: "sceloporus horridus colima" ; Times: 1
+	Query: "hyla arenicolor colima" ; Times: 1
+	Query: "genus:Coleonyx class:Reptilia stateprovince:&#34;Texas&#34; month &gt;= 5 month &lt;= 6 distance(location,geopoint(29.60035165378493,-103.2634775812727))&lt;108432" ; Times: 1
+	Query: "tarahumarae" ; Times: 1
+	Query: "15623" ; Times: 1
+	Query: "county:&#34;Kenedy&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "UTEP 19956" ; Times: 2
+	Query: "Coniophanes piceivittis Chiapas" ; Times: 1
+	Query: "Plestiodon brevirostris colima" ; Times: 1
+	Query: "graptemys ouachitensis" ; Times: 3
+	Query: "hastissue:1 Agkistrodon contortrix" ; Times: 2
+	Query: "specificepithet:marmorata genus:Clemmys" ; Times: 1
+	Query: "Reptilia louisiana sabine" ; Times: 1
+	Query: "genus:Lepidophyma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Sceloporus pyrocephalus colima" ; Times: 1
+	Query: "specificepithet:macrodactylum genus:ambystoma county:&#34;lane&#34; stateprovince:&#34;oregon&#34; month &gt;= 1 month &lt;= 2" ; Times: 1
+	Query: "Diasporus year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "Kaloula pulchra" ; Times: 1
+	Query: "UTEP 15820" ; Times: 3
+	Query: "Leptodactylus melanonotus colima" ; Times: 1
+	Query: "Trimorphodon biscutatus colima" ; Times: 1
+	Query: "Trimeresurus popeiorum" ; Times: 2
+	Query: "class:Amphibia county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "order:Squamata county:&#34;Eddy&#34; year &gt;= 2000" ; Times: 1
+	Query: "class:Amphibia county:&#34;Liberty&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "mexico sphaerodactylus" ; Times: 1
+	Query: "UTEP 1023" ; Times: 1
+	Query: "gorzugi" ; Times: 1
+	Query: "specificepithet:reticulatus class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "institutioncode:UTEP 1023" ; Times: 1
+	Query: "vntype:specimen specificepithet:petersii genus:anolis" ; Times: 1
+	Query: "Amphibia Mississippi forrest" ; Times: 2
+	Query: "19477" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; month &gt;= 5 month &lt;= 6" ; Times: 2
+	Query: "QUEEN class:Reptilia county:&#34;Eddy&#34; stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Micrurus texas harrison" ; Times: 1
+	Query: "Hemidactylus frenatus colima" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Texas&#34; month &gt;= 5 month &lt;= 6 distance(location,geopoint(29.60035165378493,-103.2634775812727))&lt;36389.313586712364" ; Times: 1
+	Query: "specificepithet:flagellum genus:Masticophis stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "specificepithet:taylori genus:anolis" ; Times: 2
+	Query: "Pituophis Mississippi" ; Times: 2
+	Query: "copperhead brazos county" ; Times: 2
+	Query: "genus:Coleonyx class:Reptilia stateprovince:&#34;Texas&#34; month &gt;= 5 month &lt;= 6" ; Times: 1
+	Query: "copperhead Brazos county" ; Times: 2
+	Query: "genus:Lithobates class:Amphibia county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:5167 institutioncode:UTEP" ; Times: 2
+	Query: "Vipera ursinii" ; Times: 1
+	Query: "UTEP 5387" ; Times: 1
+	Query: "McKittrick Canyon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "tigrinum md" ; Times: 4
+	Query: "UTEP 12312" ; Times: 2
+	Query: "specificepithet:debilis genus:anaxyrus" ; Times: 1
+	Query: "Ambystoma opacum Mississippi" ; Times: 2
+	Query: "Drymobius margaritiferus colima" ; Times: 1
+	Query: "gastrophryne usta colima" ; Times: 1
+	Query: "Reptilia Mississippi perry" ; Times: 2
+	Query: "Leptodeira nigrofasciata" ; Times: 2
+	Query: "Urosaurus bicarinatus colima" ; Times: 1
+	Query: "UTEP 11363" ; Times: 2
+	Query: "UTA 8339" ; Times: 1
+	Query: "genus:Trimorphodon class:Reptilia stateprovince:&#34;Texas&#34; month &gt;= 5 month &lt;= 6 distance(location,geopoint(29.60035165378493,-103.2634775812727))&lt;108432" ; Times: 1
+	Query: "UTEP 5271" ; Times: 2
+	Query: "specificepithet:texanus genus:cophosaurus county:&#34;brewster&#34;" ; Times: 1
+	Query: "Micrurus Mississippi" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "vipera ammodytes" ; Times: 1
+	Query: "specificepithet:blanchardi genus:Acris class:Amphibia county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Juxtlahuaca Reptilia" ; Times: 1
+	Query: "(Phrynosoma) year &gt;= 1985 year &lt;= 1985 month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "greater earless" ; Times: 2
+	Query: "Drymarchon corais mappable:1" ; Times: 1
+	Query: "DOR order:Squamata county:&#34;Eddy&#34;" ; Times: 1
+	Query: "Leptodeira annulata mappable:1" ; Times: 1
+	Query: "copperhead" ; Times: 3
+	Query: "eleutherodactylus nivicolimae colima" ; Times: 1
+	Query: "locality:34 county:&#34;Imperial&#34; stateprovince:&#34;California&#34; year &gt;= 1984 year &lt;= 1988" ; Times: 1
+	Query: "Boa constrictor mappable:1" ; Times: 1
+	Query: "Deirochelys mississippi" ; Times: 3
+	Query: "genus:Tantilla class:Reptilia stateprovince:&#34;Texas&#34; month &gt;= 5 month &lt;= 6 distance(location,geopoint(29.60035165378493,-103.2634775812727))&lt;108432" ; Times: 1
+	Query: "Adamanteus Mississippi" ; Times: 5
+	Query: "catalognumber:1023 institutioncode:UTEP" ; Times: 4
+	Query: "QUEEN stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "genus:crotalus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; month &gt;= 5 month &lt;= 6" ; Times: 1
+	Query: "Rhadinaea taeniata colima" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ambystoma Arizona" ; Times: 1
+	Query: "alterna county:&#34;Hudspeth&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:thecadactylus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Bexar&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "13139" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Sherman&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Oxyrhopus Mexico" ; Times: 1
+	Query: "Subrubrum Mississippi" ; Times: 1
+	Query: "catalognumber:12139" ; Times: 1
+	Query: "sistrurus jackson" ; Times: 1
+	Query: "Sitting bull Falls county:&#34;Eddy&#34;" ; Times: 1
+	Query: "Coluber Texas newton" ; Times: 1
+	Query: "19858" ; Times: 1
+	Query: "Pelamis platurus colima" ; Times: 1
+	Query: "UTA 6260" ; Times: 1
+	Query: "genus:Lampropeltis order:Squamata county:&#34;Eddy&#34;" ; Times: 1
+	Query: "16431" ; Times: 3
+	Query: "cienega creek arizona" ; Times: 2
+	Query: "Reptilia texas marion" ; Times: 1
+	Query: "jalisco tarahumarae" ; Times: 1
+	Query: "craugastor occidentalis colima" ; Times: 1
+	Query: "snakes" ; Times: 1
+	Query: "specificepithet:wilcoxi genus:tantilla stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "specificepithet:rivularis genus:Taricha county:&#34;Mendocino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:cognatus" ; Times: 1
+	Query: "cienega creek" ; Times: 4
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Clemmys marmorata" ; Times: 1
+	Query: "incilius alvarius" ; Times: 3
+	Query: "family:Bufonidae county:&#34;Eddy&#34;" ; Times: 1
+	Query: "137 county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "lithobates forreri colima" ; Times: 1
+	Query: "Sitting bull Falls class:Reptilia county:&#34;Eddy&#34;" ; Times: 1
+	Query: "class:Reptilia distance(location,geopoint(32.123463157388265,-104.85422044260298))&lt;8517.838219206596" ; Times: 1
+	Query: "Leptodeira maculata colima" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Reptilia Mississippi forrest" ; Times: 1
+	Query: "Deirochelys texas marion" ; Times: 2
+	Query: "Graptemys louisiana sabine" ; Times: 1
+	Query: "Tantilla bocourti colima" ; Times: 1
+	Query: "specificepithet:debilis genus:anaxyrus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Micrurus mississippi" ; Times: 1
+	Query: "10732" ; Times: 2
+	Query: "tarahumarae jalisco" ; Times: 3
+	Query: "Mudpuppy" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Oxybelis aeneus mappable:1" ; Times: 1
+	Query: "Pseudemys texana" ; Times: 1
+	Query: "heloderma horridum" ; Times: 1
+	Query: "barisia colima" ; Times: 2
+	Query: "Thamnophis eques" ; Times: 1
+	Query: "genus:ambystoma county:&#34;lane&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "specificepithet:uniformis genus:anolis" ; Times: 1
+	Query: "genus:Anaxyrus stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "UTEP 15084" ; Times: 1
+	Query: "desert iguana" ; Times: 1
+	Query: "UTEP 18353" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Deirochelys texas" ; Times: 2
+	Query: "massasauga" ; Times: 1
+	Query: "hyla eximia colima" ; Times: 1
+	Query: "Kinosternon chimalhuaca colima" ; Times: 1
+	Query: "Micrurus colima" ; Times: 1
+	Query: "pseudemys texana" ; Times: 2
+	Query: "Phyllorhynchus browni" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Atascosa&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Timber rattlesnake" ; Times: 1
+	Query: "Amphibia Mississippi perry" ; Times: 3
+	Query: "UTEP 18461" ; Times: 2
+	Query: "Aspidoscelis communis colima" ; Times: 2
+	Query: "class:Reptilia county:&#34;Kenedy&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Spilotes pullatus mappable:1" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Randall&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "ameiva undulata colima" ; Times: 1
+	Query: "Hemidactylus colima" ; Times: 1
+	Query: "Reptilia Texas nacogdoches" ; Times: 1
+	Query: "Elapsoides Mississippi" ; Times: 1
+	Query: "Manolepis" ; Times: 1
+	Query: "Reptilia texas harrison" ; Times: 1
+	Query: "Incilius alvarius" ; Times: 3
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "Reptilia texas cass" ; Times: 2
+	Query: "Eunectes murinus mappable:1" ; Times: 1
+	Query: "alterna stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:montezumae family:ranidae" ; Times: 2
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "UTEP 9827" ; Times: 2
+	Query: "pima co t16s" ; Times: 1
+	Query: "Reptilia Texas sabine" ; Times: 2
+	Query: "deirochelys reticulata" ; Times: 2
+	Query: "class:Reptilia county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; month &gt;= 5 month &lt;= 6" ; Times: 2
+	Query: "specificepithet:browni genus:Phyllorhynchus" ; Times: 1
+	Query: "UTEP 1927" ; Times: 1
+	Query: "UTEP Herps H-1023" ; Times: 1
+	Query: "Anolis nebulosus colima" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Aransas&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Wall Lizard" ; Times: 1
+	Query: "Reptilia Louisiana sabine" ; Times: 1
+	Query: "USNM 15204" ; Times: 1
+	Query: "Hypopachus variolosus colima" ; Times: 1
+	Query: "Crotalus durissus mappable:1" ; Times: 1
+	Query: "DOR order:Squamata county:&#34;oTERO&#34;" ; Times: 1
+	Query: "coleonyx elegans" ; Times: 2
+	Query: "tantilla wilcoxi" ; Times: 1
+	Query: "class:Reptilia distance(location,geopoint(32.19786772966995,-104.78692918283735))&lt;12272.457135832428" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia county:&#34;Navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Smilisca (Pternohyla) fodiens" ; Times: 3
+	Query: "Leptodeira nigrofasciata Mexico" ; Times: 2
+	Query: "genus:Lampropeltis order:Squamata county:&#34;Eddy&#34; year &gt;= 2000" ; Times: 1
+	Query: "19926" ; Times: 1
+	Query: "specificepithet:graciosus genus:Urosaurus stateprovince:&#34;Arizona&#34; year &gt;= 1900 year &lt;= 1980" ; Times: 1
+	Query: "specificepithet:texanus genus:cophosaurus county:&#34;brewster&#34; (170)" ; Times: 1
+	Query: "Hyla arborea" ; Times: 1
+	Query: "Conophis vittatus colima" ; Times: 1
+	Query: "Black River VIllage class:Amphibia county:&#34;Eddy&#34;" ; Times: 1
+	Query: "class:Reptilia distance(location,geopoint(32.123463157388265,-104.85422044260298))&lt;12272" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 20
+	Query: "Reptilia texas bowie" ; Times: 1
+	Query: "specificepithet:graciosus genus:Urosaurus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "12281" ; Times: 1
+	Query: "Reptilia Texas angelina" ; Times: 1
+	Query: "Xenosaurus" ; Times: 3
+	Query: "geochelone carbonaria" ; Times: 2
+	Query: "Leptodeira nigrofasciata Chiapas" ; Times: 1
+	Query: "Reptilia texas morris" ; Times: 2
+	Query: "bufo marmoreus colima" ; Times: 1
+	Query: "McKittrick Canyon class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:macrodactylum genus:ambystoma county:&#34;lane&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Sceloporus utiformis colima" ; Times: 1
+	Query: "Leptodactylus fragilis colima" ; Times: 1
+	Query: "Oxybelis aeneus colima" ; Times: 1
+	Query: "tigrinum maryland" ; Times: 3
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Nerodia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "devils river class:Reptilia county:&#34;val verde&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "137 class:Reptilia county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Ctenosaura pectinata colima" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:carpio genus:cyprinus mappable:1" ; Times: 1
+	Query: "class:Reptilia distance(location,geopoint(32.16614582816268,-104.82872495003107))&lt;10911.378595869703" ; Times: 1
+	Query: "boa colima" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 60 (out of 809 download events in this period)
+Total number of records downloaded: 3009
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 38
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 14
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Taiwan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-06 ; Times: 2
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-03 ; Times: 2
+	Date: 2018-12-20 ; Times: 1
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-22 ; Times: 15
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-18 ; Times: 2
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-09 ; Times: 1
+	Date: 2018-12-28 ; Times: 2
+	Date: 2018-12-07 ; Times: 10
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-05 ; Times: 5
+	Date: 2018-12-11 ; Times: 5
+	Date: 2018-12-10 ; Times: 3
+	Date: 2018-12-13 ; Times: 1
+	Date: 2018-12-12 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "gorzugi" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "crotalus durissus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Molossus molossus" ; Times: 1
+	Query: "Nerodia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "Dipodomys ordii" ; Times: 2
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "Plethodon neomexicanus" ; Times: 1
+	Query: "Anolis crassulus" ; Times: 1
+	Query: "specificepithet:montezumae family:ranidae" ; Times: 1
+	Query: "specificepithet:capito family:Ranidae" ; Times: 1
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "specificepithet:browni genus:Phyllorhynchus" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Clemmys marmorata" ; Times: 1
+	Query: "Anolis cristatellus" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "vietnam" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus year &gt;= 2000 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Megophryidae" ; Times: 2
+	Query: "vntype:specimen genus:anolis distance(location,geopoint(5.169116202043349,-91.9482421875))&lt;999357" ; Times: 1
+	Query: "order:Testudines" ; Times: 1
+	Query: "Smilisca (Pternohyla) fodiens" ; Times: 2
+	Query: "Anolis biporcatus" ; Times: 1
+	Query: "vipera ammodytes" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "vntype:specimen class:Reptilia stateprovince:&#34;Guerrero&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Graptemys caglei" ; Times: 1
+	Query: "vntype:specimen order:Squamata class:Reptilia country:&#34;Belize&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Anolis tropidonotus" ; Times: 1
+	Query: "Anolis capito" ; Times: 1
+	Query: "uma exsul" ; Times: 1
+	Query: "genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "eublepharis macularius" ; Times: 2
+	Query: "class:Amphibia stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Aneides flavipunctatus" ; Times: 1
+	Query: "Anolis aeneus" ; Times: 1
+	Query: "country:&#34;Mexico&#34; continent:America" ; Times: 3
+	Query: "Plethodon cinereus" ; Times: 3
+
+
+End of report.
