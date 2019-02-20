@@ -1,0 +1,404 @@
+Report for Institution Code UTEP, Resource utep_verts
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 430
+Number of records retrieved in searches: 4407
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 58
+	Country: United States ; Times: 272
+	Country: Madagascar ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 40
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: Saint Kitts and Nevis ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Sweden ; Times: 33
+	Country: Netherlands ; Times: 8
+	Country: Germany ; Times: 3
+	Country: Belgium ; Times: 5
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 9
+	Date: 2019-01-23 ; Times: 15
+	Date: 2019-01-26 ; Times: 1
+	Date: 2019-01-18 ; Times: 7
+	Date: 2019-01-19 ; Times: 4
+	Date: 2019-01-14 ; Times: 37
+	Date: 2019-01-15 ; Times: 9
+	Date: 2019-01-30 ; Times: 32
+	Date: 2019-01-17 ; Times: 12
+	Date: 2019-01-10 ; Times: 24
+	Date: 2019-01-11 ; Times: 33
+	Date: 2019-01-12 ; Times: 3
+	Date: 2019-01-13 ; Times: 5
+	Date: 2019-01-03 ; Times: 9
+	Date: 2019-01-02 ; Times: 16
+	Date: 2019-01-29 ; Times: 2
+	Date: 2019-01-28 ; Times: 10
+	Date: 2019-01-01 ; Times: 5
+	Date: 2019-01-07 ; Times: 12
+	Date: 2019-01-06 ; Times: 7
+	Date: 2019-01-05 ; Times: 11
+	Date: 2019-01-04 ; Times: 10
+	Date: 2019-01-21 ; Times: 11
+	Date: 2019-01-20 ; Times: 14
+	Date: 2019-01-09 ; Times: 19
+	Date: 2019-01-22 ; Times: 23
+	Date: 2019-01-25 ; Times: 21
+	Date: 2019-01-24 ; Times: 11
+	Date: 2019-01-27 ; Times: 7
+	Date: 2019-01-08 ; Times: 18
+	Date: 2019-01-16 ; Times: 33
+
+List of queries that retrieved data from the resource: 
+	Query: "Fort Indian town" ; Times: 1
+	Query: "Tantilla schistosa" ; Times: 2
+	Query: "genus:pituophis family:colubridae locality:San Miguel country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Ambystoma rosaceum" ; Times: 1
+	Query: "genus:Graptemys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Reptilia Arkansas ouachita" ; Times: 4
+	Query: "Common Mudpuppy" ; Times: 2
+	Query: "Reptilia Mississippi marshall" ; Times: 1
+	Query: "sauromalus coconino" ; Times: 1
+	Query: "genus:anolis catalognumber:8330 institutioncode:UTep" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis hastissue:1" ; Times: 1
+	Query: "UTEP 3464" ; Times: 1
+	Query: "specificepithet:cautus genus:Sceloporus stateprovince:&#34;Nuevo Leon&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "15285" ; Times: 1
+	Query: "timber rattlesnake" ; Times: 2
+	Query: "Pacific giant salamander" ; Times: 1
+	Query: "gilberti mohave" ; Times: 2
+	Query: "specificepithet:deserticola genus:Salvadora country:&#34;Mexico&#34;" ; Times: 1
+	Query: "anolis nebulosus" ; Times: 1
+	Query: "genus:Pantherophis county:&#34;Brazoria&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:euryxanthus genus:Micruroides" ; Times: 1
+	Query: "Crotaphytus dickersonae" ; Times: 1
+	Query: "family:Bufonidae county:&#34;victoria&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "20371" ; Times: 1
+	Query: "specificepithet:mentovarius genus:Masticophis" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:taeniatus genus:masticophis country:&#34;mexico&#34;" ; Times: 2
+	Query: "genus:Gambelia stateprovince:&#34;durango&#34;" ; Times: 3
+	Query: "genus:arizona family:colubridae locality:9 country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:taylori genus:Anolis" ; Times: 4
+	Query: "(11966)" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "UTEP 19710" ; Times: 1
+	Query: "TCWC" ; Times: 2
+	Query: "Western Ribbon Snake" ; Times: 3
+	Query: "Reptilia coconino sceloporus graciosus" ; Times: 1
+	Query: "crotalus pricei arizona" ; Times: 1
+	Query: "catalognumber:17628 institutioncode:UTEP" ; Times: 4
+	Query: "Graptemys flavimaculata" ; Times: 2
+	Query: "16464" ; Times: 1
+	Query: "class:amphibia county:&#34;washington&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Lithobates catesbeiana" ; Times: 2
+	Query: "specificepithet:bilineatus genus:masticophis stateprovince:&#34;Arizona&#34; (lieb)" ; Times: 1
+	Query: "CM 9029" ; Times: 1
+	Query: "genus:Liopeltis" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Texas&#34;" ; Times: 7
+	Query: "16264" ; Times: 2
+	Query: "class:Reptilia county:&#34;Galveston&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "one toed amphiuma" ; Times: 1
+	Query: "locality:doctor stateprovince:&#34;Nuevo Leon&#34; country:&#34;Mexico&#34; (morafka)" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "UTEP 17787" ; Times: 1
+	Query: "(Aniella OR Abronia OR Anguis OR Celestus OR Diploglossus OR Gerrhonotus OR Ophisaurus OR Ophiodes OR Elgaria OR Dopasia OR Coloptychon OR Barisia OR Mesaspis) institutioncode:UTEP" ; Times: 2
+	Query: "uma paraphygus" ; Times: 1
+	Query: "giant salamander" ; Times: 1
+	Query: "Lithobates vibicarius" ; Times: 2
+	Query: "specificepithet:mitchellii genus:Crotalus county:&#34;Imperial&#34;" ; Times: 1
+	Query: "15059" ; Times: 1
+	Query: "UTEP 19789" ; Times: 1
+	Query: "Crotalus veracruz" ; Times: 3
+	Query: "class:reptilia locality:doctor stateprovince:&#34;Nuevo Leon&#34; country:&#34;Mexico&#34; (morafka)" ; Times: 1
+	Query: "specificepithet:bilineatus genus:masticophis locality:portal stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "UTEP 1239" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;Zacatecas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "hemidactylus turcicus mexico" ; Times: 1
+	Query: "genus:Gerrhonotus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Anolis nebulosus" ; Times: 2
+	Query: "snakes" ; Times: 1
+	Query: "specificepithet:proximus genus:thamnophis hastissue:1" ; Times: 1
+	Query: "class:reptilia locality:Kofa stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:pituophis family:colubridae locality:San Miguel" ; Times: 1
+	Query: "genus:masticophis locality:4.5 country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Maverick&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34; institutioncode:UTEP basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Hypsiglena locality:67" ; Times: 1
+	Query: "15284" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Montague&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Bufonidae county:&#34;refugio&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "13917" ; Times: 1
+	Query: "Reptilia Arkansas hempstead" ; Times: 1
+	Query: "northern red-legged frog" ; Times: 2
+	Query: "western rattlesnake" ; Times: 2
+	Query: "ambystoma maculatum north carolina" ; Times: 1
+	Query: "genus:Pituophis family:colubridae stateprovince:&#34;Nuevo Leon&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Calliophis bivirgata" ; Times: 2
+	Query: "specificepithet:stansburiana genus:Uta county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "UTEP 563" ; Times: 3
+	Query: "genus:Hypsiglena locality:Esperanza stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "arroyo toad" ; Times: 1
+	Query: "Crotaphytus reticulatus" ; Times: 1
+	Query: "specificepithet:stansburiana genus:Uta county:&#34;Bernalillo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "ambystoma mabeei" ; Times: 1
+	Query: "long-toed salamander" ; Times: 6
+	Query: "catalognumber:16091 institutioncode:UTEP" ; Times: 1
+	Query: "UTEP 16015" ; Times: 1
+	Query: "Reptilia Wisconsin Juneau" ; Times: 2
+	Query: "UTEP 18554" ; Times: 2
+	Query: "specificepithet:grahamiae genus:Salvadora county:&#34;cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:talpoideum genus:Ambystoma stateprovince:&#34;South Carolina&#34;" ; Times: 3
+	Query: "monster" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "18466" ; Times: 1
+	Query: "specificepithet:flagellum genus:masticophis locality:san antonio country:&#34;mexico&#34;" ; Times: 1
+	Query: "Crotaphytus insularis" ; Times: 1
+	Query: "mohave punctatus" ; Times: 1
+	Query: "genus:rhyacotriton county:&#34;Multnomah&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:bivirgata genus:Calliophis" ; Times: 2
+	Query: "UTEP 10827" ; Times: 3
+	Query: "specificepithet:flagellum genus:masticophis family:colubridae locality:San country:&#34;Mexico&#34;" ; Times: 1
+	Query: "12623" ; Times: 1
+	Query: "craugastor pygmaeus" ; Times: 1
+	Query: "diamondback terrapin" ; Times: 1
+	Query: "genus:Urosaurus family:Phrynosomatidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:reptilia locality:fresnillo stateprovince:&#34;Zacatecas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "UTEP 434" ; Times: 2
+	Query: "16408" ; Times: 1
+	Query: "Reptilia Wisconsin rock" ; Times: 1
+	Query: "specificepithet:flagellum genus:masticophis country:&#34;mexico&#34; year &gt;= 1978 month &gt;= 5" ; Times: 1
+	Query: "Reptilia texas waller" ; Times: 1
+	Query: "specificepithet:modestum genus:phrynosoma country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:coluber locality:8" ; Times: 1
+	Query: "specificepithet:means genus:Amphiuma stateprovince:&#34;Carolina&#34;" ; Times: 1
+	Query: "specificepithet:bilineatus genus:Masticophis" ; Times: 1
+	Query: "preparations:skeletons basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Bitis nasicornis" ; Times: 2
+	Query: "specificepithet:brevis genus:coleonyx stateprovince:&#34;durango&#34;" ; Times: 1
+	Query: "Micrurus Texas lamar" ; Times: 2
+	Query: "UTEP 1233" ; Times: 2
+	Query: "genus:anolis catalognumber:8220 institutioncode:UTep" ; Times: 1
+	Query: "Reptilia Mississippi lafayette" ; Times: 4
+	Query: "copperhead data" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;El Paso&#34; stateprovince:&#34;Texas&#34; institutioncode:UTEP basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ascaphus truei mappable:1" ; Times: 1
+	Query: "Taylor county Florida Heterodon" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:Lithobates stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "Eurycea nana" ; Times: 2
+	Query: "anolis barkeri" ; Times: 4
+	Query: "specificepithet:molossus genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "holbrookia navajo" ; Times: 1
+	Query: "UTEP 10812" ; Times: 2
+	Query: "vntype:specimen genus:pituophis stateprovince:&#34;Nuevo Leon&#34;" ; Times: 1
+	Query: "UTEP 10814" ; Times: 2
+	Query: "13877" ; Times: 1
+	Query: "specificepithet:collaris genus:Crotaphytus stateprovince:&#34;Coahuila&#34;" ; Times: 2
+	Query: "specificepithet:willardi genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Pantherophis county:&#34;Lavaca&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "UTEP 83" ; Times: 3
+	Query: "11225" ; Times: 1
+	Query: "Laemanctus longipes" ; Times: 1
+	Query: "genus:masticophis locality:portal stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;McMullen&#34; stateprovince:&#34;Texas&#34; institutioncode:UTEP basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Bungarus candidus" ; Times: 2
+	Query: "specificepithet:variegatus genus:coleonyx (1978-06-04)" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Crockett&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "CM-9029" ; Times: 1
+	Query: "horned lizard" ; Times: 1
+	Query: "liopeltis" ; Times: 2
+	Query: "Reptilia texas fort bend" ; Times: 2
+	Query: "genus:thecadactylus continent:North America" ; Times: 1
+	Query: "Clemmys marmorata" ; Times: 2
+	Query: "genus:Chilomeniscus family:colubridae" ; Times: 1
+	Query: "heloderma horridum" ; Times: 1
+	Query: "Masticophis schotti" ; Times: 2
+	Query: "specificepithet:flagellum genus:masticophis family:colubridae locality:Antonio country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;McMullen&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Reptilia Texas jasper" ; Times: 3
+	Query: "genus:Ambystoma preparations:skeleton" ; Times: 6
+	Query: "gerrhonotus liocephalus" ; Times: 1
+	Query: "UTEP 18281" ; Times: 1
+	Query: "chionactis occipitalis sonora" ; Times: 2
+	Query: "sceloporus spinosus" ; Times: 1
+	Query: "lichanura mohave" ; Times: 2
+	Query: "genus:anolis catalognumber:8221 institutioncode:UTep" ; Times: 1
+	Query: "specificepithet:sauritus genus:thamnophis hastissue:1" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Hudspeth&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Culberson&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "hellbender" ; Times: 1
+	Query: "specificepithet:deserticola genus:Salvadora stateprovince:&#34;Arizona&#34; (Lieb)" ; Times: 1
+	Query: "anolis laeviventris" ; Times: 1
+	Query: "Gerrhonotus" ; Times: 1
+	Query: "Reptilia mohave sceloporus graciosus" ; Times: 4
+	Query: "Agalychnis dacnicolor" ; Times: 1
+	Query: "family:phrynosomatidae locality:Santa Inez country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:5622" ; Times: 1
+	Query: "family:anguidae country:&#34;mexico&#34;" ; Times: 2
+	Query: "genus:Pituophis stateprovince:&#34;Potosi&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:bilineatus genus:masticophis locality:stewart stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Deirochelys texas" ; Times: 8
+	Query: "class:Amphibia county:&#34;Galveston&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "long toed salamander" ; Times: 3
+	Query: "northwestern salamander" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Comal&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "storeria occipitomaculata lafayette" ; Times: 1
+	Query: "Salamander stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "specificepithet:texanus genus:Cophosaurus locality:Linares" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Maverick&#34; stateprovince:&#34;Texas&#34; institutioncode:UTEP basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "12343" ; Times: 2
+	Query: "jefferson salamander" ; Times: 2
+	Query: "gyalopion canum" ; Times: 3
+	Query: "specificepithet:reticulatus genus:coleonyx" ; Times: 3
+	Query: "Reptilia Texas bowie" ; Times: 1
+	Query: "13818" ; Times: 1
+	Query: "Lithobates virgatipes" ; Times: 1
+	Query: "Reptilia Mississippi yalobusha" ; Times: 2
+	Query: "specificepithet:brevis genus:coleonyx" ; Times: 1
+	Query: "mudpuppy" ; Times: 1
+	Query: "UTEP 8454" ; Times: 1
+	Query: "crotalus pusillus" ; Times: 3
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Kendall&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Live Oak&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "lithobates capito" ; Times: 1
+	Query: "Reptilia Texas lamar" ; Times: 1
+	Query: "UTEP 794" ; Times: 2
+	Query: "genus:crotalus (Oaxaco OR Veracruz OR Chiapas OR Puebla)" ; Times: 1
+	Query: "specificepithet:petersii genus:Anolis" ; Times: 3
+	Query: "genus:Opheodrys hastissue:1" ; Times: 1
+	Query: "UTEP H-83" ; Times: 2
+	Query: "velox Coconino" ; Times: 1
+	Query: "Reptilia mohave rhinocheilus" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Hudspeth&#34; stateprovince:&#34;Texas&#34; institutioncode:UTEP basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Crotaphytus antiquus" ; Times: 1
+	Query: "specificepithet:flagellum genus:masticophis country:&#34;mexico&#34; year &gt;= 1978" ; Times: 1
+	Query: "UTEP 17503" ; Times: 2
+	Query: "Amphibia coconino bombifrons" ; Times: 1
+	Query: "locality:letchworth stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "Helodermatidae" ; Times: 1
+	Query: "Western Garter Snake" ; Times: 1
+	Query: "Coachwhip" ; Times: 2
+	Query: "15827" ; Times: 1
+	Query: "agalychnis dacnicolor" ; Times: 3
+	Query: "wall lizard" ; Times: 2
+	Query: "Pseudemys rubriventris" ; Times: 1
+	Query: "Yellow Mud Turtle" ; Times: 1
+	Query: "Reptilia tigris arizona mohave" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Concho&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "UTEP 18433" ; Times: 2
+	Query: "eastern salamander" ; Times: 1
+	Query: "genus:crotalus (Oaxaco OR Veracruz OR Chiapas OR Puebla) year &gt;= 1975" ; Times: 1
+	Query: "Macrochelys texas" ; Times: 2
+	Query: "genus:phrynosoma stateprovince:&#34;Arizona&#34; (csl)" ; Times: 1
+	Query: "okapi" ; Times: 1
+	Query: "Snapping Turtle" ; Times: 6
+	Query: "Celestus" ; Times: 2
+	Query: "specificepithet:ornatus genus:Urosaurus family:Phrynosomatidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Reptilia Texas harrison" ; Times: 2
+	Query: "15171" ; Times: 1
+	Query: "UTEP 15829" ; Times: 1
+	Query: "Regina Oklahoma mccurtain" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 3
+	Query: "Tropidoclonion" ; Times: 1
+	Query: "rozellae" ; Times: 2
+	Query: "Deirochelys" ; Times: 4
+	Query: "texas tortoise" ; Times: 1
+	Query: "roughskin newt" ; Times: 1
+	Query: "recordedby:a h wood" ; Times: 1
+	Query: "catalognumber:11956" ; Times: 3
+	Query: "genus:Anaxyrus specificepithet:cognatus" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Dimmit&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Hyla gratiosa" ; Times: 1
+	Query: "Nerodia rhombifera" ; Times: 1
+	Query: "genus:phrynosoma county:&#34;cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "cophosaurus mohave" ; Times: 3
+	Query: "genus:Eleutherodactylus stateprovince:&#34;Durango&#34;" ; Times: 1
+	Query: "genus:anaxyrus county:&#34;san patricio&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Drymarchon Mexico" ; Times: 1
+	Query: "specificepithet:lugubris county:&#34;Orange&#34;" ; Times: 2
+	Query: "Copperhead Data" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Graptemys oculifera" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;El Paso&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "Ambystoma mabeei" ; Times: 1
+	Query: "specificepithet:deserticola genus:Salvadora county:&#34;cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "specificepithet:fulvius genus:micrurus locality:Alzafar" ; Times: 1
+	Query: "genus:masticophis country:&#34;mexico&#34;" ; Times: 2
+	Query: "Notophthalmus meridionalis" ; Times: 4
+	Query: "genus:Crotalus willardi stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "genus:ambystoma stateprovince:&#34;puebla&#34; AND (NOT tigrinum NOT mavortium NOT velasci)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 962 download events in this period)
+Total number of records downloaded: 485
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: India ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-28 ; Times: 2
+	Date: 2019-01-01 ; Times: 2
+	Date: 2019-01-08 ; Times: 4
+	Date: 2019-01-07 ; Times: 1
+	Date: 2019-01-04 ; Times: 3
+	Date: 2019-01-21 ; Times: 1
+	Date: 2019-01-15 ; Times: 1
+	Date: 2019-01-16 ; Times: 5
+	Date: 2019-01-17 ; Times: 3
+	Date: 2019-01-10 ; Times: 3
+	Date: 2019-01-11 ; Times: 1
+	Date: 2019-01-24 ; Times: 2
+	Date: 2019-01-20 ; Times: 1
+	Date: 2019-01-31 ; Times: 1
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:longicauda genus:Eurycea" ; Times: 1
+	Query: "Gymnophiona" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus" ; Times: 1
+	Query: "siren intermedia" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis hastissue:1" ; Times: 2
+	Query: "crotalus pusillus" ; Times: 1
+	Query: "velox Coconino" ; Times: 2
+	Query: "specificepithet:frenatus" ; Times: 1
+	Query: "specificepithet:jordani genus:Plethodon" ; Times: 1
+	Query: "Anolis lemurinus" ; Times: 1
+	Query: "ambystoma rosaceum" ; Times: 1
+	Query: "class:Amphibia county:&#34;multnomah&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "class:Amphibia county:&#34;los angeles&#34;" ; Times: 1
+	Query: "specificepithet:frenatus genus:Hemidactylus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Anolis biporcatus" ; Times: 1
+	Query: "Celestus" ; Times: 1
+	Query: "specificepithet:aureolus genus:Plethodon" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Tropidoclonion" ; Times: 1
+	Query: "&#34;sceloporus occidentalis&#34; vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:chlorobryonis genus:Plethodon" ; Times: 1
+	Query: "genus:Opheodrys aestivus" ; Times: 2
+	Query: "specificepithet:fuscus genus:Desmognathus" ; Times: 1
+	Query: "class:reptilia locality:fresnillo stateprovince:&#34;Zacatecas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Lithobates catesbeiana" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Plethodon" ; Times: 1
+	Query: "class:amphibia county:&#34;Riverside&#34;" ; Times: 1
+	Query: "specificepithet:bislineata genus:Eurycea" ; Times: 1
+	Query: "class:amphibia county:&#34;san bernardino&#34;" ; Times: 1
+
+
+End of report.
