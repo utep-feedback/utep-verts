@@ -1,0 +1,424 @@
+Report for Institution Code UTEP, Resource utep_verts
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 442
+Number of records retrieved in searches: 5445
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Estonia ; Times: 1
+	Country: Mexico ; Times: 76
+	Country: Denmark ; Times: 1
+	Country: Panama ; Times: 1
+	Country: Sweden ; Times: 25
+	Country: United States ; Times: 301
+	Country: Unknown ; Times: 4
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 10
+	Country: Chile ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: Belgium ; Times: 7
+	Country: Dominican Republic ; Times: 2
+	Country: Ukraine ; Times: 2
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 11
+	Date: 2019-05-31 ; Times: 9
+	Date: 2019-05-09 ; Times: 17
+	Date: 2019-05-08 ; Times: 12
+	Date: 2019-05-07 ; Times: 24
+	Date: 2019-05-06 ; Times: 37
+	Date: 2019-05-05 ; Times: 15
+	Date: 2019-05-04 ; Times: 4
+	Date: 2019-05-03 ; Times: 45
+	Date: 2019-05-02 ; Times: 9
+	Date: 2019-05-01 ; Times: 14
+	Date: 2019-05-25 ; Times: 3
+	Date: 2019-05-24 ; Times: 10
+	Date: 2019-05-27 ; Times: 8
+	Date: 2019-05-26 ; Times: 14
+	Date: 2019-05-21 ; Times: 25
+	Date: 2019-05-20 ; Times: 15
+	Date: 2019-05-23 ; Times: 14
+	Date: 2019-05-22 ; Times: 19
+	Date: 2019-05-29 ; Times: 17
+	Date: 2019-05-28 ; Times: 2
+	Date: 2019-05-18 ; Times: 10
+	Date: 2019-05-19 ; Times: 8
+	Date: 2019-05-10 ; Times: 14
+	Date: 2019-05-11 ; Times: 11
+	Date: 2019-05-12 ; Times: 11
+	Date: 2019-05-13 ; Times: 10
+	Date: 2019-05-14 ; Times: 16
+	Date: 2019-05-15 ; Times: 6
+	Date: 2019-05-16 ; Times: 20
+	Date: 2019-05-17 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "preparations:skeleton catalognumber:604 institutioncode:UTEP" ; Times: 1
+	Query: "genus:plethodon hasmass:1" ; Times: 3
+	Query: "anaxyrus ucm" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis county:&#34;cochise&#34; stateprovince:&#34;Arizona&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "senticolis zacatecas" ; Times: 1
+	Query: "specificepithet:lepidus genus:crotalus county:&#34;Presidio&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Arthroleptis adolfifriederici" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 4
+	Query: "preparations:skeleton catalognumber:290 institutioncode:UTEP" ; Times: 1
+	Query: "class:Reptilia county:&#34;Reeves&#34; stateprovince:&#34;Texas&#34; institutioncode:UTEP" ; Times: 2
+	Query: "genus:Micrurus county:&#34;Val Verde&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "county:&#34;russell&#34; stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "anolis nebulosus" ; Times: 13
+	Query: "specificepithet:oreganus genus:Crotalus county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:tantilla class:reptilia county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Epicrates cenchria" ; Times: 1
+	Query: "Herps vntype:specimen county:&#34;Harris&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; institutioncode:UTEP" ; Times: 2
+	Query: "preparations:skeleton catalognumber:373 institutioncode:UTEP" ; Times: 1
+	Query: "herps vntype:specimen county:&#34;harris&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34; institutioncode:UTEP" ; Times: 2
+	Query: "genus:Sistrurus hasmass:1" ; Times: 1
+	Query: "class:Amphibia county:&#34;Marshall&#34; stateprovince:&#34;Mississippi&#34; institutioncode:UTEP" ; Times: 1
+	Query: "preparations:skeleton catalognumber:176 institutioncode:UTEP" ; Times: 1
+	Query: "genus:Pantherophis stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "preparations:skeleton catalognumber:266 institutioncode:UTEP" ; Times: 2
+	Query: "genus:Eleutherodactylus preparations:skeleton" ; Times: 2
+	Query: "coleonyx variegatus distance(location,geopoint(34.1901889497599,-111.10451854159771))&lt;100000" ; Times: 2
+	Query: "genus:lampropeltis alterna county:&#34;val verde&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "lithobates heckscheri UTEP" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "preparations:skeleton catalognumber:289 institutioncode:UTEP" ; Times: 2
+	Query: "genus:Micrurus county:&#34;Calhoun&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Drymobius rhombifer" ; Times: 1
+	Query: "genus:phrynosoma class:reptilia county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Lithobates grylio" ; Times: 3
+	Query: "tcwc 20" ; Times: 1
+	Query: "genus:urosaurus class:reptilia county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;pima&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "copperhead data" ; Times: 1
+	Query: "Corn snake alabama" ; Times: 1
+	Query: "preparations:skeleton catalognumber:178 institutioncode:UTEP" ; Times: 1
+	Query: "washoe Gambelia" ; Times: 1
+	Query: "14580" ; Times: 1
+	Query: "Phrynosoma solare" ; Times: 1
+	Query: "17485" ; Times: 1
+	Query: "Lithobates catesbeiana" ; Times: 1
+	Query: "dune sagebrush lizard" ; Times: 1
+	Query: "preparations:skeleton catalognumber:1134 institutioncode:UTEP" ; Times: 2
+	Query: "pseudacris distance(location,geopoint(37.12130728695301,-118.09835902908941))&lt;118999" ; Times: 1
+	Query: "genus:Leptodeira stateprovince:&#34;Jalisco&#34;" ; Times: 4
+	Query: "institutioncode:utep lincoln new mexico reptilia" ; Times: 2
+	Query: "uaz" ; Times: 1
+	Query: "preparations:skeleton catalognumber:1136 institutioncode:UTEP" ; Times: 2
+	Query: "specificepithet:catenatus genus:Sistrurus county:&#34;Young&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "craugastor rugulosus" ; Times: 1
+	Query: "specificepithet:vaillanti genus:Lithobates country:&#34;Mexico&#34;" ; Times: 1
+	Query: "phyllodactylus nayarit" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis county:&#34;santa cruz&#34; stateprovince:&#34;Arizona&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "Lithobates grylio UTEP" ; Times: 1
+	Query: "county:&#34;harris&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34; institutioncode:UTEP" ; Times: 2
+	Query: "Storeria dekayi stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "anaxyrus distance(location,geopoint(37.12130728695301,-118.09835902908941))&lt;118999" ; Times: 1
+	Query: "genus:Aspidoscelis locality:Sabino Canyon stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus county:&#34;Shackelford&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:lithobates stateprovince:&#34;maryland&#34;" ; Times: 1
+	Query: "snakes" ; Times: 1
+	Query: "lithobates heckscheri utep" ; Times: 1
+	Query: "specificepithet:tridactylum genus:amphiuma stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "trivirgata maricopa" ; Times: 1
+	Query: "specificepithet:hobartsmithi genus:tantilla class:reptilia county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "preparations:skeleton catalognumber:171 institutioncode:UTEP" ; Times: 1
+	Query: "preparations:skeleton catalognumber:839 institutioncode:UTEP" ; Times: 2
+	Query: "class:Reptilia county:&#34;Pecos&#34; stateprovince:&#34;Texas&#34; institutioncode:UTEP" ; Times: 1
+	Query: "Southern hognose" ; Times: 2
+	Query: "preparations:skeleton catalognumber:173 institutioncode:UTEP" ; Times: 2
+	Query: "specificepithet:catenatus genus:Sistrurus county:&#34;Roberts&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "Lithobates berlandieri" ; Times: 1
+	Query: "thamnophis eques" ; Times: 1
+	Query: "genus:crotalus stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "specificepithet:hobartsmithi genus:Tantilla stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "county:&#34;jackson&#34; stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Nez Perce&#34; stateprovince:&#34;Idaho&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "lithobates ucm" ; Times: 1
+	Query: "gila monster" ; Times: 1
+	Query: "preparations:skeleton catalognumber:1075 institutioncode:UTEP" ; Times: 2
+	Query: "Micruroides" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Bexar&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:hartwegi genus:Bolitoglossa country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Tropidophis haetianus" ; Times: 2
+	Query: "catalognumber:5455 institutioncode:UTEP" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "washoe phrynosoma" ; Times: 1
+	Query: "preparations:skeleton catalognumber:170 institutioncode:UTEP" ; Times: 3
+	Query: "washoe Crotaphytus" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Nassau&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "lithobates heckscheri" ; Times: 2
+	Query: "preparations:skeleton catalognumber:175 institutioncode:UTEP" ; Times: 1
+	Query: "family:Scincidae stateprovince:&#34;texas&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:pyromelana genus:Lampropeltis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Comal&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Lithobates chiricahuensis mappable:1" ; Times: 14
+	Query: "Anolis isthmicus" ; Times: 2
+	Query: "monster" ; Times: 2
+	Query: "preparations:skeleton catalognumber:180 institutioncode:UTEP" ; Times: 1
+	Query: "genus:Hypopachus specificepithet:barberi" ; Times: 1
+	Query: "tcwc 20 reptilia" ; Times: 1
+	Query: "coachwhip" ; Times: 1
+	Query: "Scott Edwards" ; Times: 1
+	Query: "preparations:skeleton catalognumber:181 institutioncode:UTEP" ; Times: 1
+	Query: "Desert tortoise" ; Times: 2
+	Query: "catalognumber:1292 institutioncode:UTEP" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "eleutherodactylus cystignathoides" ; Times: 2
+	Query: "specificepithet:emoryi genus:Pantherophis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "xenosaurus" ; Times: 1
+	Query: "specificepithet:CONTORTRIX genus:AGKISTRODON county:&#34;DOUGLAS&#34; stateprovince:&#34;KANSAS&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Houston toad" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Stenorrhina degenhardtii" ; Times: 1
+	Query: "institutioncode:utep lincoln new mexico" ; Times: 1
+	Query: "micrurus laticollaris" ; Times: 5
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Morris&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Nerodia preparations:skeleton" ; Times: 2
+	Query: "specificepithet:scutulatus genus:crotalus county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "preparations:skeleton catalognumber:385 institutioncode:UTEP" ; Times: 1
+	Query: "Amphibia Arizona santa cruz" ; Times: 1
+	Query: "genus:Eleutherodactylus specificepithet:cystignathoides" ; Times: 1
+	Query: "genus:Lithobates stateprovince:&#34;Jalisco&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "sonora semiannulata arizona" ; Times: 3
+	Query: "Scaphiopus intermontanus" ; Times: 2
+	Query: "IF 396" ; Times: 2
+	Query: "recordedby:Wiseman" ; Times: 1
+	Query: "specificepithet:collaris genus:Crotaphytus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "phyllodactylus jalisco" ; Times: 6
+	Query: "pyromelana" ; Times: 4
+	Query: "order:Anura lengthtype:total length haslength:1" ; Times: 1
+	Query: "pituophis catenifer hasmass:1" ; Times: 1
+	Query: "genus:Incilius specificepithet:alvarius" ; Times: 2
+	Query: "Dendrophidion dendrophis" ; Times: 1
+	Query: "catalognumber:996 institutioncode:UTEP" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "genus:lampropeltis alterna county:&#34;terrell&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:hobartsmithi genus:Tantilla county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "11225" ; Times: 1
+	Query: "specificepithet:horridus genus:crotalus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:elegans genus:Micrurus" ; Times: 1
+	Query: "burti burti" ; Times: 1
+	Query: "vipera aspis" ; Times: 2
+	Query: "Rana chiricahuensis mappable:1" ; Times: 14
+	Query: "foothill yellow legged frog" ; Times: 2
+	Query: "clemmys marmorata" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; Crotalus horridus" ; Times: 3
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 5
+	Query: "Coleonyx elegans" ; Times: 2
+	Query: "preparations:skeleton catalognumber:1135 institutioncode:UTEP" ; Times: 2
+	Query: "specificepithet:mitchellii genus:Crotalus county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 4
+	Query: "&#34;charina bottae&#34; AND &#34;idaho&#34;" ; Times: 2
+	Query: "agkistrodon bilineatus" ; Times: 1
+	Query: "Ambystoma granulosum" ; Times: 2
+	Query: "stateprovince:&#34;New Mexico&#34; (Crotalus) institutioncode:UTEP" ; Times: 1
+	Query: "Storeria dekayi county:&#34;Wilson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:mississippi genus:Plethodon stateprovince:&#34;Alabama&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "specificepithet:fulvius genus:Micrurus stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Puebla&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "copperhead data brazos" ; Times: 1
+	Query: "sceloporus cryptus" ; Times: 2
+	Query: "genus:Micrurus county:&#34;Blanco&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "kinosternon integrum nayarit méxico" ; Times: 9
+	Query: "0245" ; Times: 1
+	Query: "genus:crotalus county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Anelytropsis" ; Times: 1
+	Query: "18900" ; Times: 1
+	Query: "specificepithet:intermedia genus:siren stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "lepidophyma flavimaculatum" ; Times: 1
+	Query: "genus:cryptobranchus stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "class:reptilia county:&#34;russell&#34; stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "gila monster Arizona" ; Times: 1
+	Query: "&#34;lake stubblefield&#34;" ; Times: 2
+	Query: "Agalychnis dacnicolor" ; Times: 1
+	Query: "Ambystoma ordinarium" ; Times: 1
+	Query: "county:&#34;terrell&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34; institutioncode:UTEP hastissue:1" ; Times: 1
+	Query: "black spotted newt" ; Times: 1
+	Query: "crotalus pricei" ; Times: 4
+	Query: "Fox snake" ; Times: 1
+	Query: "specificepithet:lepidus genus:crotalus county:&#34;santa cruz&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Pituophis Alabama" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis stateprovince:&#34;Arizona&#34; country:&#34;united states&#34;" ; Times: 2
+	Query: "massasauga" ; Times: 2
+	Query: "coleonyx variegatus distance(location,geopoint(31.393117684380094,-108.69140625))&lt;100000" ; Times: 2
+	Query: "lithobates tarahumarae Arizona" ; Times: 1
+	Query: "preparations:skeleton catalognumber:413 institutioncode:UTEP" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Medina&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Bitis arietans hasmass:1" ; Times: 1
+	Query: "catalognumber:385 institutioncode:UTEP" ; Times: 3
+	Query: "class:Reptilia stateprovince:&#34;Zacatecas&#34; year &gt;= 1984 month &gt;= 8 institutioncode:UTEP" ; Times: 1
+	Query: "Timber rattlesnake" ; Times: 3
+	Query: "Pantherophis guttata" ; Times: 1
+	Query: "lithobates tarahumarae UTEP" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:debilis" ; Times: 1
+	Query: "Coleonyx reticulatus]" ; Times: 1
+	Query: "vector" ; Times: 2
+	Query: "preparations:skeleton catalognumber:45 institutioncode:UTEP" ; Times: 1
+	Query: "preparations:skeleton catalognumber:411 institutioncode:UTEP" ; Times: 1
+	Query: "17610" ; Times: 1
+	Query: "Columbia torrent salamander" ; Times: 2
+	Query: "Ambystoma taylori" ; Times: 1
+	Query: "Eunectes murinus" ; Times: 1
+	Query: "lithobates tarahumarae" ; Times: 1
+	Query: "genus:lampropeltis county:&#34;Presidio&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "senticolis" ; Times: 1
+	Query: "class:Reptilia county:&#34;Marshall&#34; stateprovince:&#34;Mississippi&#34; institutioncode:UTEP" ; Times: 1
+	Query: "Thamnophis proximus institutioncode:UTEP" ; Times: 1
+	Query: "Ambystoma bombypellum" ; Times: 2
+	Query: "class:Reptilia distance(location,geopoint(29.258871251165782,-103.29821648713425))&lt;8242" ; Times: 1
+	Query: "specificepithet:Catenatus genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "micrurus browni" ; Times: 2
+	Query: "UTEP H 4710" ; Times: 1
+	Query: "genus:Urosaurus county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "county:&#34;Catron&#34; institutioncode:UTEP" ; Times: 1
+	Query: "barisia" ; Times: 2
+	Query: "genus:Micrurus county:&#34;Refugio&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Alabama lampropeltis" ; Times: 8
+	Query: "genus:lampropeltis stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "sceloporus jalapae" ; Times: 5
+	Query: "specificepithet:parvus genus:Sceloporus stateprovince:&#34;Coahuila&#34;" ; Times: 1
+	Query: "lithobates virgatipes" ; Times: 1
+	Query: "genus:Sceloporus stateprovince:&#34;Alabama&#34; hastissue:1" ; Times: 4
+	Query: "genus:Cryptobranchus stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Lichanura" ; Times: 4
+	Query: "juvenile genus:Siren stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "county:&#34;Marshall&#34; stateprovince:&#34;Mississippi&#34; institutioncode:UTEP" ; Times: 1
+	Query: "Massasauga" ; Times: 1
+	Query: "&#34;crotalus oreganus&#34; AND &#34;idaho&#34;" ; Times: 2
+	Query: "PYROMELANA" ; Times: 1
+	Query: "genus:charina county:&#34;riverside&#34;" ; Times: 3
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Kinney&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Rana chiricahuensis" ; Times: 2
+	Query: "genus:lampropeltis alterna county:&#34;presidio&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Ornate box turtle" ; Times: 1
+	Query: "county:&#34;Terrell&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; institutioncode:UTEP" ; Times: 1
+	Query: "Xenosaurus" ; Times: 1
+	Query: "Giant Salamander" ; Times: 1
+	Query: "Lampropeltis sonora mexico" ; Times: 4
+	Query: "UTEP 385" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Edwards&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "desert night lizard" ; Times: 1
+	Query: "Texas brown snake" ; Times: 1
+	Query: "slender salamander" ; Times: 1
+	Query: "catalognumber:568 institutioncode:UTEP" ; Times: 1
+	Query: "senticolis zacatecas|" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 3
+	Query: "Arroyo Toad" ; Times: 14
+	Query: "heterodon arizona" ; Times: 1
+	Query: "preparations:skeleton catalognumber:177 institutioncode:UTEP" ; Times: 2
+	Query: "genus:Plectrohyla specificepithet:ixil" ; Times: 1
+	Query: "eunectes murinus murinus" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 1
+	Query: "Pyromelana Arizona" ; Times: 3
+	Query: "Chiricahua Leopard frog" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 58 (out of 940 download events in this period)
+Total number of records downloaded: 1999
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 15
+	Country: United States ; Times: 34
+	Country: Switzerland ; Times: 3
+	Country: Guatemala ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-31 ; Times: 1
+	Date: 2019-05-09 ; Times: 5
+	Date: 2019-05-08 ; Times: 2
+	Date: 2019-05-07 ; Times: 1
+	Date: 2019-05-06 ; Times: 4
+	Date: 2019-05-05 ; Times: 1
+	Date: 2019-05-03 ; Times: 1
+	Date: 2019-05-02 ; Times: 1
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-27 ; Times: 5
+	Date: 2019-05-26 ; Times: 6
+	Date: 2019-05-21 ; Times: 2
+	Date: 2019-05-20 ; Times: 1
+	Date: 2019-05-22 ; Times: 3
+	Date: 2019-05-29 ; Times: 1
+	Date: 2019-05-19 ; Times: 1
+	Date: 2019-05-10 ; Times: 3
+	Date: 2019-05-11 ; Times: 3
+	Date: 2019-05-12 ; Times: 3
+	Date: 2019-05-13 ; Times: 1
+	Date: 2019-05-14 ; Times: 8
+	Date: 2019-05-15 ; Times: 2
+	Date: 2019-05-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "IF 396" ; Times: 1
+	Query: "specificepithet:crepitans genus:Acris" ; Times: 2
+	Query: "Salamandra" ; Times: 1
+	Query: "order:Squamata country:&#34;Belize&#34;" ; Times: 1
+	Query: "specificepithet:subpalmata genus:Bolitoglossa" ; Times: 1
+	Query: "herps vntype:specimen county:&#34;harris&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34; institutioncode:UTEP" ; Times: 1
+	Query: "vntype:specimen order:Squamata country:&#34;Belize&#34;" ; Times: 1
+	Query: "Ambystoma rosaceum" ; Times: 1
+	Query: "class:Reptilia county:&#34;Pecos&#34; stateprovince:&#34;Texas&#34; institutioncode:UTEP" ; Times: 1
+	Query: "vntype:specimen class:Amphibia country:&#34;Belize&#34;" ; Times: 1
+	Query: "&#34;Naja naja&#34;" ; Times: 1
+	Query: "Ambystoma bombypellum" ; Times: 1
+	Query: "specificepithet:mexicana genus:Bolitoglossa" ; Times: 1
+	Query: "family:Gekkonidae" ; Times: 1
+	Query: "specificepithet:rufescens genus:Bolitoglossa" ; Times: 1
+	Query: "genus:Cryptobranchus stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "barisia" ; Times: 1
+	Query: "sceloporus magister distance(location,geopoint(37.12130728695301,-118.09835902908941))&lt;118999" ; Times: 1
+	Query: "agkistrodon bilineatus" ; Times: 1
+	Query: "Ambystoma granulosum" ; Times: 1
+	Query: "&#34;Bungarus&#34;" ; Times: 1
+	Query: "bothrops asper" ; Times: 1
+	Query: "sceloporus jalapae" ; Times: 1
+	Query: "phrynosoma platyrhinos distance(location,geopoint(37.12130728695301,-118.09835902908941))&lt;118999" ; Times: 1
+	Query: "aspidoscelis tigris distance(location,geopoint(37.12130728695301,-118.09835902908941))&lt;118999" ; Times: 1
+	Query: "uta stansburiana distance(location,geopoint(37.12130728695301,-118.09835902908941))&lt;118999" ; Times: 1
+	Query: "genus:gambelia stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Ambystoma taylori" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Bolitoglossa" ; Times: 1
+	Query: "kinosternon integrum nayarit méxico" ; Times: 1
+	Query: "family:Eublepharidae" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "Anelytropsis" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "Xenosaurus" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "pseudacris distance(location,geopoint(37.12130728695301,-118.09835902908941))&lt;118999" ; Times: 1
+	Query: "uma exsul" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "&#34;Echis carinatus&#34;" ; Times: 1
+	Query: "sceloporus cryptus" ; Times: 2
+	Query: "sauromalus AND CA" ; Times: 1
+	Query: "sauromalus" ; Times: 1
+	Query: "(reptilia) distance(location,geopoint(37.12130728695301,-118.09835902908941))&lt;118999" ; Times: 1
+	Query: "Thamnophis proximus institutioncode:UTEP" ; Times: 1
+	Query: "Ambystoma ordinarium" ; Times: 1
+	Query: "genus:cryptobranchus stateprovince:&#34;pennsylvania&#34;" ; Times: 2
+	Query: "genus:Plectrohyla specificepithet:ixil" ; Times: 1
+	Query: "anaxyrus distance(location,geopoint(37.12130728695301,-118.09835902908941))&lt;118999" ; Times: 1
+
+
+End of report.
